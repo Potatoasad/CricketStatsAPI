@@ -1,0 +1,573 @@
+,File,Team1,Team2,Venue,City,Dates,TossWinner,TossDecision,MatchType,Winner,ByWickets,ByRuns,Overs,PlayerOfTheMatch,Umpires,Gender,BattingFirst,BattingSecond,MatchId,Target
+0,T20/1001349.yaml,Australia,Sri Lanka,Melbourne Cricket Ground,,2017-02-17,Sri Lanka,field,T20,Sri Lanka,5,0,20,DAS Gunaratne,"['MD Martell', 'P Wilson']",male,Australia,Sri Lanka,0,168
+1,T20/1001351.yaml,Australia,Sri Lanka,"Simonds Stadium, South Geelong",Victoria,2017-02-19,Sri Lanka,field,T20,Sri Lanka,2,0,20,DAS Gunaratne,"['SD Fry', 'SJ Nogajski']",male,Australia,Sri Lanka,1,173
+2,T20/1001353.yaml,Australia,Sri Lanka,Adelaide Oval,,2017-02-22,Sri Lanka,field,T20,Australia,0,41,20,A Zampa,"['MD Martell', 'P Wilson']",male,Australia,Sri Lanka,2,187
+3,T20/1004729.yaml,Ireland,Hong Kong,"Bready Cricket Club, Magheramason",Londonderry,2016-09-05,Hong Kong,bat,T20,Hong Kong,0,40,20,,"['R Black', 'AJ Neill']",male,Hong Kong,Ireland,3,169
+4,T20/1007655.yaml,Zimbabwe,India,Harare Sports Club,,2016-06-18,India,field,T20,Zimbabwe,0,2,20,E Chigumbura,"['TJ Matibiri', 'RB Tiffin']",male,Zimbabwe,India,4,170
+5,T20/1007657.yaml,Zimbabwe,India,Harare Sports Club,,2016-06-20,Zimbabwe,bat,T20,India,10,0,20,BB Sran,"['L Rusere', 'RB Tiffin']",male,Zimbabwe,India,5,99
+6,T20/1007659.yaml,Zimbabwe,India,Harare Sports Club,,2016-06-22,Zimbabwe,field,T20,India,0,3,20,KM Jadhav,"['TJ Matibiri', 'RB Tiffin']",male,India,Zimbabwe,6,138
+7,T20/1019979.yaml,New Zealand,Bangladesh,McLean Park,Napier,2017-01-03,Bangladesh,bat,T20,New Zealand,6,0,20,KS Williamson,"['SB Haig', 'WR Knights']",male,Bangladesh,New Zealand,7,141
+8,T20/1019981.yaml,New Zealand,Bangladesh,Bay Oval,Mount Maunganui,2017-01-06,Bangladesh,field,T20,New Zealand,0,47,20,C Munro,"['CM Brown', 'SB Haig']",male,New Zealand,Bangladesh,8,195
+9,T20/1019983.yaml,New Zealand,Bangladesh,Bay Oval,Mount Maunganui,2017-01-08,Bangladesh,field,T20,New Zealand,0,27,20,CJ Anderson,"['CM Brown', 'WR Knights']",male,New Zealand,Bangladesh,9,194
+10,T20/1020029.yaml,New Zealand,South Africa,Eden Park,Auckland,2017-02-17,New Zealand,field,T20,South Africa,0,78,20,Imran Tahir,"['CM Brown', 'WR Knights']",male,South Africa,New Zealand,10,185
+11,T20/1031431.yaml,England,South Africa,The Rose Bowl,Southampton,2017-06-21,South Africa,bat,T20,England,9,0,20,JM Bairstow,"['RJ Bailey', 'RT Robinson']",male,South Africa,England,11,142
+12,T20/1031433.yaml,England,South Africa,County Ground,Taunton,2017-06-23,England,field,T20,South Africa,0,3,20,CH Morris,"['RJ Bailey', 'MA Gough']",male,South Africa,England,12,174
+13,T20/1031435.yaml,England,South Africa,Sophia Gardens,Cardiff,2017-06-25,South Africa,field,T20,England,0,19,20,DJ Malan,"['MA Gough', 'RT Robinson']",male,England,South Africa,13,181
+14,T20/1034825.yaml,India,England,Green Park,Kanpur,2017-01-26,England,field,T20,England,7,0,20,MM Ali,"['AK Chaudhary', 'Nitin Menon']",male,India,England,14,147
+15,T20/1034827.yaml,India,England,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2017-01-29,England,field,T20,India,0,5,20,JJ Bumrah,"['AK Chaudhary', 'C Shamshuddin']",male,India,England,15,144
+16,T20/1034829.yaml,India,England,M Chinnaswamy Stadium,Bangalore,2017-02-01,England,field,T20,India,0,75,20,YS Chahal,"['AK Chaudhary', 'Nitin Menon']",male,India,England,16,202
+17,T20/1040485.yaml,Afghanistan,Ireland,Greater Noida Sports Complex Ground,Greater Noida,2017-03-08,Ireland,bat,T20,Afghanistan,6,0,20,Samiullah Shenwari,"['Ahmed Shah Durrani', 'Ahmed Shah Pakteen']",male,Ireland,Afghanistan,17,165
+18,T20/1040487.yaml,Afghanistan,Ireland,Greater Noida Sports Complex Ground,Greater Noida,2017-03-10,Afghanistan,bat,T20,D/L,0,17,20,Najeeb Tarakai,"['Ahmed Shah Durrani', 'Ahmed Shah Pakteen']",male,Afghanistan,Ireland,18,184
+19,T20/1040489.yaml,Afghanistan,Ireland,Greater Noida Sports Complex Ground,Greater Noida,2017-03-12,Ireland,field,T20,Afghanistan,0,28,20,Mohammad Nabi,"['Ahmed Shah Durrani', 'Ahmed Shah Pakteen']",male,Afghanistan,Ireland,19,233
+20,T20/1041615.yaml,India,West Indies,Central Broward Regional Park Stadium Turf Ground,Lauderhill,2016-08-27,India,field,T20,West Indies,0,1,20,E Lewis,"['N Duguid', 'JS Wilson']",male,West Indies,India,20,245
+21,T20/1041617.yaml,India,West Indies,Central Broward Regional Park Stadium Turf Ground,Lauderhill,2016-08-28,India,field,T20,no result,0,0,20,,"['LS Reifer', 'JS Wilson']",male,West Indies,India,21,143
+22,T20/1050217.yaml,Pakistan,West Indies,Dubai International Cricket Stadium,,2016-09-23,Pakistan,field,T20,Pakistan,9,0,20,Imad Wasim,"['Ahsan Raza', 'Shozab Raza']",male,West Indies,Pakistan,22,115
+23,T20/1050219.yaml,Pakistan,West Indies,Dubai International Cricket Stadium,,2016-09-24,West Indies,field,T20,Pakistan,0,16,20,Sarfraz Ahmed,"['Ahmed Shahab', 'Shozab Raza']",male,Pakistan,West Indies,23,160
+24,T20/1050221.yaml,Pakistan,West Indies,Sheikh Zayed Stadium,Abu Dhabi,2016-09-27,Pakistan,field,T20,Pakistan,8,0,20,Imad Wasim,"['Ahsan Raza', 'Shozab Raza']",male,West Indies,Pakistan,24,103
+25,T20/1072206.yaml,United Arab Emirates,Afghanistan,ICC Academy,Dubai,2016-12-14,Afghanistan,bat,T20,Afghanistan,0,11,20,Karim Janat,"['Ahmed Shah Durrani', 'Iftikhar Ali']",male,Afghanistan,United Arab Emirates,25,161
+26,T20/1072207.yaml,United Arab Emirates,Afghanistan,Dubai International Cricket Stadium,,2016-12-16,United Arab Emirates,bat,T20,Afghanistan,5,0,20,Najibullah Zadran,"['Ahmed Shah Durrani', 'Akbar Ali']",male,United Arab Emirates,Afghanistan,26,179
+27,T20/1072208.yaml,United Arab Emirates,Afghanistan,ICC Academy,Dubai,2016-12-18,Afghanistan,bat,T20,Afghanistan,0,44,20,Rashid Khan,"['Akbar Ali', 'Iftikhar Ali']",male,Afghanistan,United Arab Emirates,27,189
+28,T20/1074957.yaml,Hong Kong,Scotland,Sheikh Zayed Stadium,Abu Dhabi,2017-01-14,Scotland,bat,T20,Scotland,0,24,20,CS MacLeod,"['Ahmed Shah Pakteen', 'AJ Neill']",male,Scotland,Hong Kong,28,189
+29,T20/1074958.yaml,Afghanistan,Ireland,Sheikh Zayed Stadium,Abu Dhabi,2017-01-14,Ireland,bat,T20,Afghanistan,5,0,20,Mohammad Nabi,"['Iftikhar Ali', 'BB Pradhan']",male,Ireland,Afghanistan,29,125
+30,T20/1074959.yaml,Netherlands,Oman,Sheikh Zayed Stadium,Abu Dhabi,2017-01-15,Oman,bat,T20,Netherlands,5,0,20,MJG Rippon,"['AJT Dowdalls', 'Tabarak Dar']",male,Oman,Netherlands,30,146
+31,T20/1074961.yaml,Hong Kong,Oman,Sheikh Zayed Stadium,Abu Dhabi,2017-01-16,Oman,field,T20,Oman,7,0,20,Bilal Khan,"['Iftikhar Ali', 'AJ Neill']",male,Hong Kong,Oman,31,87
+32,T20/1074962.yaml,United Arab Emirates,Afghanistan,Sheikh Zayed Stadium,Abu Dhabi,2017-01-16,Afghanistan,field,T20,Afghanistan,5,0,20,Dawlat Zadran,"['AJT Dowdalls', 'Tabarak Dar']",male,United Arab Emirates,Afghanistan,32,146
+33,T20/1074964.yaml,Netherlands,Scotland,Sheikh Zayed Stadium,Abu Dhabi,2017-01-17,Netherlands,field,T20,Scotland,0,7,20,JH Davey,"['AJ Neill', 'Tabarak Dar']",male,Scotland,Netherlands,33,148
+34,T20/1074965.yaml,United Arab Emirates,Ireland,Dubai International Cricket Stadium,,2017-01-18,Ireland,bat,T20,Ireland,0,24,20,WB Rankin,"['Ahmed Shah Durrani', 'BB Pradhan']",male,Ireland,United Arab Emirates,34,160
+35,T20/1074966.yaml,Hong Kong,Netherlands,Dubai International Cricket Stadium,,2017-01-18,Hong Kong,bat,T20,Hong Kong,0,91,20,Anshuman Rath,"['AJT Dowdalls', 'AJ Neill']",male,Hong Kong,Netherlands,35,183
+36,T20/1074968.yaml,Oman,Scotland,Dubai International Cricket Stadium,,2017-01-19,Oman,bat,T20,Scotland,7,0,20,MH Cross,"['Ahmed Shah Pakteen', 'Iftikhar Ali']",male,Oman,Scotland,36,133
+37,T20/1074969.yaml,Afghanistan,Oman,Dubai International Cricket Stadium,,2017-01-20,Afghanistan,field,T20,Afghanistan,8,0,20,Mohammad Shahzad,"['AJT Dowdalls', 'AJ Neill']",male,Oman,Afghanistan,37,149
+38,T20/1074970.yaml,Ireland,Scotland,Dubai International Cricket Stadium,,2017-01-20,Scotland,field,T20,Ireland,0,98,20,GC Wilson,"['Ahmed Shah Pakteen', 'BB Pradhan']",male,Ireland,Scotland,38,211
+39,T20/1074971.yaml,Afghanistan,Ireland,Dubai International Cricket Stadium,,2017-01-20,Ireland,bat,T20,Afghanistan,10,0,20,Mohammad Nabi,"['BB Pradhan', 'Tabarak Dar']",male,Ireland,Afghanistan,39,71
+40,T20/1077947.yaml,West Indies,Pakistan,"Kensington Oval, Bridgetown",Barbados,2017-03-26,Pakistan,field,T20,Pakistan,6,0,20,Shadab Khan,"['GO Brathwaite', 'JS Wilson']",male,West Indies,Pakistan,40,111
+41,T20/1077948.yaml,West Indies,Pakistan,"Queen's Park Oval, Port of Spain",Trinidad,2017-03-30,West Indies,field,T20,Pakistan,0,3,20,Shadab Khan,"['N Duguid', 'JS Wilson']",male,Pakistan,West Indies,41,132
+42,T20/1083449.yaml,Sri Lanka,Bangladesh,R Premadasa Stadium,Colombo,2017-04-04,Bangladesh,bat,T20,Sri Lanka,6,0,20,MDKJ Perera,"['REJ Martinesz', 'RR Wimalasiri']",male,Bangladesh,Sri Lanka,42,155
+43,T20/1083450.yaml,Sri Lanka,Bangladesh,R Premadasa Stadium,Colombo,2017-04-06,Bangladesh,bat,T20,Bangladesh,0,45,20,Shakib Al Hasan,"['REJ Martinesz', 'RSA Palliyaguruge']",male,Bangladesh,Sri Lanka,43,176
+44,T20/1085495.yaml,West Indies,Pakistan,"Queen's Park Oval, Port of Spain",Trinidad,2017-04-01,Pakistan,bat,T20,West Indies,7,0,20,E Lewis,"['GO Brathwaite', 'LS Reifer']",male,Pakistan,West Indies,44,137
+45,T20/1085496.yaml,West Indies,Pakistan,"Queen's Park Oval, Port of Spain",Trinidad,2017-04-02,Pakistan,field,T20,Pakistan,7,0,20,Hasan Ali,"['GO Brathwaite', 'JS Wilson']",male,West Indies,Pakistan,45,124
+46,T20/1089202.yaml,United Arab Emirates,Papua New Guinea,Sheikh Zayed Stadium,Abu Dhabi,2017-04-12,United Arab Emirates,field,T20,United Arab Emirates,5,0,20,,"['Akbar Ali', 'Shozab Raza']",male,Papua New Guinea,United Arab Emirates,46,102
+47,T20/1089203.yaml,United Arab Emirates,Papua New Guinea,Sheikh Zayed Stadium,Abu Dhabi,2017-04-14,Papua New Guinea,field,T20,United Arab Emirates,0,30,20,,"['Akbar Ali', 'Shozab Raza']",male,United Arab Emirates,Papua New Guinea,47,180
+48,T20/1089243.yaml,United Arab Emirates,Papua New Guinea,Sheikh Zayed Stadium,Abu Dhabi,2017-04-14,Papua New Guinea,bat,T20,United Arab Emirates,5,0,20,,"['Akbar Ali', 'Shozab Raza']",male,Papua New Guinea,United Arab Emirates,48,128
+49,T20/1089776.yaml,West Indies,Afghanistan,"Warner Park, Basseterre",St Kitts,2017-06-02,Afghanistan,bat,T20,West Indies,6,0,20,SP Narine,"['GO Brathwaite', 'N Duguid']",male,Afghanistan,West Indies,49,110
+50,T20/1089777.yaml,West Indies,Afghanistan,"Warner Park, Basseterre",St Kitts,2017-06-03,West Indies,bat,T20,D/L,0,29,20,KOK Williams,"['GO Brathwaite', 'JS Wilson']",male,West Indies,Afghanistan,50,112
+51,T20/1089778.yaml,West Indies,Afghanistan,"Warner Park, Basseterre",St Kitts,2017-06-05,Afghanistan,bat,T20,West Indies,7,0,20,MN Samuels,"['LS Reifer', 'JS Wilson']",male,Afghanistan,West Indies,51,146
+52,T20/1098211.yaml,West Indies,India,"Sabina Park, Kingston",Jamaica,2017-07-09,West Indies,field,T20,West Indies,9,0,20,E Lewis,"['N Duguid', 'LS Reifer']",male,India,West Indies,52,190
+53,T20/211028.yaml,England,Australia,The Rose Bowl,Southampton,2005-06-13,England,bat,T20,England,0,100,20,KP Pietersen,"['NJ Llong', 'JW Lloyds']",male,England,Australia,53,179
+54,T20/211048.yaml,New Zealand,Australia,Eden Park,Auckland,2005-02-17,Australia,bat,T20,Australia,0,44,20,RT Ponting,"['BF Bowden', 'AL Hill']",male,Australia,New Zealand,54,214
+55,T20/222678.yaml,South Africa,New Zealand,New Wanderers Stadium,Johannesburg,2005-10-21,New Zealand,field,T20,New Zealand,5,0,20,JS Patel,"['IL Howell', 'BG Jerling']",male,South Africa,New Zealand,55,133
+56,T20/225263.yaml,England,Pakistan,County Ground,Bristol,2006-08-28,England,bat,T20,Pakistan,5,0,20,Shahid Afridi,"['PJ Hartley', 'NJ Llong']",male,England,Pakistan,56,144
+57,T20/225271.yaml,England,Sri Lanka,The Rose Bowl,Southampton,2006-06-15,Sri Lanka,bat,T20,Sri Lanka,0,2,20,ST Jayasuriya,"['IJ Gould', 'NJ Llong']",male,Sri Lanka,England,57,163
+58,T20/226374.yaml,Australia,South Africa,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2006-01-09,Australia,bat,T20,Australia,0,95,20,DR Martyn,"['BNJ Oxenford', 'RL Parry']",male,Australia,South Africa,58,209
+59,T20/237242.yaml,New Zealand,West Indies,Eden Park,Auckland,2006-02-16,New Zealand,field,T20,tie,0,0,20,DR Smith,"['BF Bowden', 'AL Hill']",male,West Indies,New Zealand,59,126
+60,T20/238195.yaml,South Africa,Australia,New Wanderers Stadium,Johannesburg,2006-02-24,South Africa,bat,T20,South Africa,0,2,20,GC Smith,"['M Erasmus', 'KH Hurter']",male,South Africa,Australia,60,201
+61,T20/249227.yaml,Australia,England,Sydney Cricket Ground,,2007-01-09,Australia,bat,T20,Australia,0,77,20,CL White,"['PD Parker', 'RL Parry']",male,Australia,England,61,221
+62,T20/251487.yaml,New Zealand,Sri Lanka,Westpac Stadium,Wellington,2006-12-22,New Zealand,bat,T20,D/L,0,18,20,ST Jayasuriya,"['AL Hill', 'EA Watkin']",male,New Zealand,Sri Lanka,62,162
+63,T20/251488.yaml,New Zealand,Sri Lanka,Eden Park,Auckland,2006-12-26,New Zealand,field,T20,New Zealand,5,0,20,JEC Franklin,"['BF Bowden', 'AL Hill']",male,Sri Lanka,New Zealand,63,115
+64,T20/255954.yaml,South Africa,India,New Wanderers Stadium,Johannesburg,2006-12-01,South Africa,bat,T20,India,6,0,20,KD Karthik,"['IL Howell', 'BG Jerling']",male,South Africa,India,64,126
+65,T20/258463.yaml,England,West Indies,Kennington Oval,London,2007-06-28,West Indies,bat,T20,West Indies,0,15,20,PD Collingwood,"['PJ Hartley', 'NJ Llong']",male,West Indies,England,65,208
+66,T20/258464.yaml,England,West Indies,Kennington Oval,London,2007-06-29,West Indies,bat,T20,England,5,0,20,OA Shah,"['IJ Gould', 'NJ Llong']",male,West Indies,England,66,169
+67,T20/287853.yaml,South Africa,West Indies,New Wanderers Stadium,Johannesburg,2007-09-11,South Africa,field,T20,South Africa,8,0,20,CH Gayle,"['MR Benson', 'DJ Harper']",male,West Indies,South Africa,67,205
+68,T20/287854.yaml,Kenya,New Zealand,Kingsmead,Durban,2007-09-12,New Zealand,field,T20,New Zealand,9,0,20,MR Gillespie,"['BR Doctrove', 'SJA Taufel']",male,Kenya,New Zealand,68,73
+69,T20/287855.yaml,Pakistan,Scotland,Kingsmead,Durban,2007-09-12,Scotland,field,T20,Pakistan,0,51,20,Shahid Afridi,"['SJ Davis', 'SJA Taufel']",male,Pakistan,Scotland,69,171
+70,T20/287856.yaml,Australia,Zimbabwe,Newlands,Cape Town,2007-09-12,Australia,bat,T20,Zimbabwe,5,0,20,BRM Taylor,"['Asad Rauf', 'AL Hill']",male,Australia,Zimbabwe,70,138
+71,T20/287857.yaml,Bangladesh,West Indies,New Wanderers Stadium,Johannesburg,2007-09-13,Bangladesh,field,T20,Bangladesh,6,0,20,Mohammad Ashraful,"['MR Benson', 'NJ Llong']",male,West Indies,Bangladesh,71,164
+72,T20/287858.yaml,England,Zimbabwe,Newlands,Cape Town,2007-09-13,England,bat,T20,England,0,50,20,KP Pietersen,"['Asad Rauf', 'AL Hill']",male,England,Zimbabwe,72,188
+73,T20/287860.yaml,Kenya,Sri Lanka,New Wanderers Stadium,Johannesburg,2007-09-14,Kenya,field,T20,Sri Lanka,0,172,20,ST Jayasuriya,"['DJ Harper', 'NJ Llong']",male,Sri Lanka,Kenya,73,260
+74,T20/287861.yaml,Australia,England,Newlands,Cape Town,2007-09-14,England,bat,T20,Australia,8,0,20,NW Bracken,"['Asad Rauf', 'IL Howell']",male,England,Australia,74,135
+75,T20/287862.yaml,India,Pakistan,Kingsmead,Durban,2007-09-14,Pakistan,field,T20,tie,0,0,20,Mohammad Asif,"['BR Doctrove', 'SJA Taufel']",male,India,Pakistan,75,141
+76,T20/287863.yaml,New Zealand,Sri Lanka,New Wanderers Stadium,Johannesburg,2007-09-15,New Zealand,bat,T20,Sri Lanka,7,0,20,ST Jayasuriya,"['MR Benson', 'DJ Harper']",male,New Zealand,Sri Lanka,76,164
+77,T20/287864.yaml,South Africa,Bangladesh,Newlands,Cape Town,2007-09-15,South Africa,field,T20,South Africa,7,0,20,M Morkel,"['Asad Rauf', 'AL Hill']",male,Bangladesh,South Africa,77,144
+78,T20/287865.yaml,India,New Zealand,New Wanderers Stadium,Johannesburg,2007-09-16,India,field,T20,New Zealand,0,10,20,DL Vettori,"['MR Benson', 'NJ Llong']",male,New Zealand,India,78,190
+79,T20/287866.yaml,Australia,Bangladesh,Newlands,Cape Town,2007-09-16,Australia,field,T20,Australia,9,0,20,B Lee,"['Asad Rauf', 'IL Howell']",male,Bangladesh,Australia,79,123
+80,T20/287867.yaml,South Africa,England,Newlands,Cape Town,2007-09-16,England,field,T20,South Africa,0,19,20,JA Morkel,"['Asad Rauf', 'AL Hill']",male,South Africa,England,80,154
+81,T20/287868.yaml,Pakistan,Sri Lanka,New Wanderers Stadium,Johannesburg,2007-09-17,Sri Lanka,field,T20,Pakistan,0,33,20,Younis Khan,"['DJ Harper', 'NJ Llong']",male,Pakistan,Sri Lanka,81,189
+82,T20/287869.yaml,England,New Zealand,Kingsmead,Durban,2007-09-18,England,field,T20,New Zealand,0,5,20,CD McMillan,"['BR Doctrove', 'SJA Taufel']",male,New Zealand,England,82,164
+83,T20/287870.yaml,Australia,Pakistan,New Wanderers Stadium,Johannesburg,2007-09-18,Pakistan,field,T20,Pakistan,6,0,20,Misbah-ul-Haq,"['MR Benson', 'NJ Llong']",male,Australia,Pakistan,83,164
+84,T20/287871.yaml,Bangladesh,Sri Lanka,New Wanderers Stadium,Johannesburg,2007-09-18,Bangladesh,field,T20,Sri Lanka,0,64,20,CRD Fernando,"['MR Benson', 'DJ Harper']",male,Sri Lanka,Bangladesh,84,147
+85,T20/287872.yaml,South Africa,New Zealand,Kingsmead,Durban,2007-09-19,South Africa,field,T20,South Africa,6,0,20,JM Kemp,"['BR Doctrove', 'SJA Taufel']",male,New Zealand,South Africa,85,153
+86,T20/287873.yaml,England,India,Kingsmead,Durban,2007-09-19,India,bat,T20,India,0,18,20,Yuvraj Singh,"['BR Doctrove', 'SJA Taufel']",male,India,England,86,218
+87,T20/287874.yaml,Australia,Sri Lanka,Newlands,Cape Town,2007-09-20,Australia,field,T20,Australia,10,0,20,SR Clark,"['Asad Rauf', 'IL Howell']",male,Sri Lanka,Australia,87,101
+88,T20/287875.yaml,Bangladesh,Pakistan,Newlands,Cape Town,2007-09-20,Pakistan,field,T20,Pakistan,4,0,20,Junaid Siddique,"['AL Hill', 'IL Howell']",male,Bangladesh,Pakistan,88,140
+89,T20/287876.yaml,South Africa,India,Kingsmead,Durban,2007-09-20,India,bat,T20,India,0,37,20,RG Sharma,"['BR Doctrove', 'SJA Taufel']",male,India,South Africa,89,153
+90,T20/287877.yaml,New Zealand,Pakistan,Newlands,Cape Town,2007-09-22,New Zealand,bat,T20,Pakistan,6,0,20,Umar Gul,"['DJ Harper', 'SJA Taufel']",male,New Zealand,Pakistan,90,143
+91,T20/287878.yaml,Australia,India,Kingsmead,Durban,2007-09-22,India,bat,T20,India,0,15,20,Yuvraj Singh,"['Asad Rauf', 'MR Benson']",male,India,Australia,91,188
+92,T20/287879.yaml,India,Pakistan,New Wanderers Stadium,Johannesburg,2007-09-24,India,bat,T20,India,0,5,20,IK Pathan,"['MR Benson', 'SJA Taufel']",male,India,Pakistan,92,157
+93,T20/291343.yaml,Australia,New Zealand,Western Australia Cricket Association Ground,Perth,2007-12-11,Australia,bat,T20,Australia,0,54,20,A Symonds,"['SJ Davis', 'PD Parker']",male,Australia,New Zealand,93,186
+94,T20/291356.yaml,Australia,India,Melbourne Cricket Ground,,2008-02-01,India,bat,T20,Australia,9,0,20,MJ Clarke,"['BNJ Oxenford', 'SJA Taufel']",male,India,Australia,94,74
+95,T20/296903.yaml,England,New Zealand,Old Trafford,Manchester,2008-06-13,England,field,T20,England,9,0,20,IR Bell,"['IJ Gould', 'PJ Hartley']",male,New Zealand,England,95,123
+96,T20/297800.yaml,India,Australia,Brabourne Stadium,Mumbai,2007-10-20,Australia,bat,T20,India,7,0,20,G Gambhir,"['AM Saheba', 'SL Shastri']",male,Australia,India,96,166
+97,T20/298795.yaml,South Africa,New Zealand,New Wanderers Stadium,Johannesburg,2007-11-23,South Africa,field,T20,South Africa,3,0,20,AB de Villiers,"['IL Howell', 'BG Jerling']",male,New Zealand,South Africa,97,129
+98,T20/298804.yaml,South Africa,West Indies,New Wanderers Stadium,Johannesburg,2008-01-18,South Africa,field,T20,South Africa,4,0,20,SM Pollock,"['BG Jerling', 'RE Koertzen']",male,West Indies,South Africa,98,131
+99,T20/300435.yaml,New Zealand,England,Eden Park,Auckland,2008-02-05,New Zealand,field,T20,England,0,32,20,AD Mascarenhas,"['GAV Baxter', 'BF Bowden']",male,England,New Zealand,99,184
+100,T20/300436.yaml,New Zealand,England,Jade Stadium,Christchurch,2008-02-07,England,bat,T20,England,0,50,20,PD Collingwood,"['GAV Baxter', 'BF Bowden']",male,England,New Zealand,100,193
+101,T20/306987.yaml,Kenya,Bangladesh,Gymkhana Club Ground,Nairobi,2007-09-01,Bangladesh,field,T20,Bangladesh,5,0,20,Nazimuddin,"[""R D'Mello"", 'SR Modi']",male,Kenya,Bangladesh,101,138
+102,T20/306989.yaml,Bangladesh,Pakistan,Gymkhana Club Ground,Nairobi,2007-09-02,Bangladesh,field,T20,Pakistan,0,30,20,Imran Nazir,"[""R D'Mello"", 'SR Modi']",male,Pakistan,Bangladesh,102,191
+103,T20/306991.yaml,Kenya,Pakistan,Gymkhana Club Ground,Nairobi,2007-09-04,Kenya,bat,T20,Pakistan,8,0,20,Younis Khan,"['SR Modi', 'IO Oyieko']",male,Kenya,Pakistan,103,92
+104,T20/319112.yaml,South Africa,West Indies,St George's Park,Port Elizabeth,2007-12-16,West Indies,field,T20,West Indies,5,0,20,JE Taylor,"['IL Howell', 'BG Jerling']",male,South Africa,West Indies,104,58
+105,T20/319142.yaml,West Indies,Australia,"Kensington Oval, Bridgetown",Barbados,2008-06-20,West Indies,field,T20,West Indies,7,0,20,XM Marshall,"['BR Doctrove', 'CR Duncan']",male,Australia,West Indies,105,97
+106,T20/343764.yaml,Pakistan,Bangladesh,National Stadium,Karachi,2008-04-20,Pakistan,bat,T20,Pakistan,0,102,20,Misbah-ul-Haq,"['Nadeem Ghauri', 'Zameer Haider']",male,Pakistan,Bangladesh,106,203
+107,T20/350050.yaml,England,Australia,Old Trafford,Manchester,2009-08-30,England,field,T20,no result,0,0,20,,"['IJ Gould', 'RA Kettleborough']",male,Australia,England,107,145
+108,T20/350347.yaml,South Africa,Bangladesh,New Wanderers Stadium,Johannesburg,2008-11-05,Bangladesh,field,T20,D/L,0,12,20,Abdur Razzak,"['M Erasmus', 'BG Jerling']",male,South Africa,Bangladesh,108,118
+109,T20/350475.yaml,South Africa,Australia,New Wanderers Stadium,Johannesburg,2009-03-27,South Africa,field,T20,South Africa,4,0,20,DJ Hussey,"['M Erasmus', 'RE Koertzen']",male,Australia,South Africa,109,166
+110,T20/350476.yaml,South Africa,Australia,SuperSport Park,Centurion,2009-03-29,Australia,field,T20,South Africa,0,17,20,RE van der Merwe,"['M Erasmus', 'BG Jerling']",male,South Africa,Australia,110,156
+111,T20/351694.yaml,Australia,South Africa,Melbourne Cricket Ground,,2009-01-11,Australia,bat,T20,Australia,0,52,20,DA Warner,"['BNJ Oxenford', 'RJ Tucker']",male,Australia,South Africa,111,182
+112,T20/351695.yaml,Australia,South Africa,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2009-01-13,South Africa,bat,T20,Australia,6,0,20,MEK Hussey,"['PR Reiffel', 'RJ Tucker']",male,South Africa,Australia,112,157
+113,T20/351696.yaml,Australia,New Zealand,Sydney Cricket Ground,,2009-02-15,Australia,bat,T20,Australia,0,1,20,NW Bracken,"['BNJ Oxenford', 'PR Reiffel']",male,Australia,New Zealand,113,150
+114,T20/352674.yaml,West Indies,England,"Queen's Park Oval, Port of Spain",Trinidad,2009-03-15,West Indies,field,T20,West Indies,6,0,20,RR Sarwan,"['CR Duncan', 'NA Malcolm']",male,England,West Indies,114,121
+115,T20/354456.yaml,Bermuda,Scotland,"Civil Service Cricket Club, Stormont",Belfast,2008-08-03,Scotland,field,T20,Scotland,8,0,20,JD Nel,"['NG Bagh', 'Sarika Prasad']",male,Bermuda,Scotland,115,99
+116,T20/355991.yaml,England,Netherlands,Lord's,London,2009-06-05,Netherlands,field,T20,Netherlands,4,0,20,TN de Grooth,"['SJ Davis', 'EAR de Silva']",male,England,Netherlands,116,162
+117,T20/355992.yaml,New Zealand,Scotland,Kennington Oval,London,2009-06-06,New Zealand,field,T20,New Zealand,7,0,20,IG Butler,"['BR Doctrove', 'DJ Harper']",male,Scotland,New Zealand,117,89
+118,T20/355993.yaml,Australia,West Indies,Kennington Oval,London,2009-06-06,Australia,bat,T20,West Indies,7,0,20,CH Gayle,"['Aleem Dar', 'Asad Rauf']",male,Australia,West Indies,118,169
+119,T20/355994.yaml,Bangladesh,India,Trent Bridge,Nottingham,2009-06-06,India,bat,T20,India,0,25,20,PP Ojha,"['BF Bowden', 'SJA Taufel']",male,India,Bangladesh,119,180
+120,T20/355995.yaml,Scotland,South Africa,Kennington Oval,London,2009-06-07,Scotland,field,T20,South Africa,0,130,20,AB de Villiers,"['Asad Rauf', 'AM Saheba']",male,South Africa,Scotland,120,211
+121,T20/355996.yaml,England,Pakistan,Kennington Oval,London,2009-06-07,Pakistan,field,T20,England,0,48,20,LJ Wright,"['BR Doctrove', 'DJ Harper']",male,England,Pakistan,121,185
+122,T20/355997.yaml,Bangladesh,Ireland,Trent Bridge,Nottingham,2009-06-08,Ireland,field,T20,Ireland,6,0,20,NJ O'Brien,"['NJ Llong', 'SJA Taufel']",male,Bangladesh,Ireland,122,137
+123,T20/355998.yaml,Australia,Sri Lanka,Trent Bridge,Nottingham,2009-06-08,Sri Lanka,field,T20,Sri Lanka,6,0,20,KC Sangakkara,"['BF Bowden', 'IJ Gould']",male,Australia,Sri Lanka,123,159
+124,T20/355999.yaml,Netherlands,Pakistan,Lord's,London,2009-06-09,Pakistan,bat,T20,Pakistan,0,82,20,Kamran Akmal,"['BR Doctrove', 'AM Saheba']",male,Pakistan,Netherlands,124,175
+125,T20/356000.yaml,New Zealand,South Africa,Lord's,London,2009-06-09,New Zealand,field,T20,South Africa,0,1,20,RE van der Merwe,"['Asad Rauf', 'DJ Harper']",male,South Africa,New Zealand,125,128
+126,T20/356001.yaml,India,Ireland,Trent Bridge,Nottingham,2009-06-10,India,field,T20,India,8,0,20,Z Khan,"['IJ Gould', 'NJ Llong']",male,Ireland,India,126,112
+127,T20/356002.yaml,Sri Lanka,West Indies,Trent Bridge,Nottingham,2009-06-10,West Indies,field,T20,Sri Lanka,0,15,20,ST Jayasuriya,"['BF Bowden', 'SJA Taufel']",male,Sri Lanka,West Indies,127,192
+128,T20/356003.yaml,Ireland,New Zealand,Trent Bridge,Nottingham,2009-06-11,Ireland,field,T20,New Zealand,0,83,20,AJ Redmond,"['EAR de Silva', 'M Erasmus']",male,New Zealand,Ireland,128,198
+129,T20/356004.yaml,England,South Africa,Trent Bridge,Nottingham,2009-06-11,England,bat,T20,South Africa,7,0,20,JH Kallis,"['SJ Davis', 'AL Hill']",male,England,South Africa,129,111
+130,T20/356005.yaml,Pakistan,Sri Lanka,Lord's,London,2009-06-12,Sri Lanka,bat,T20,Sri Lanka,0,19,20,TM Dilshan,"['MR Benson', 'RE Koertzen']",male,Sri Lanka,Pakistan,130,150
+131,T20/356006.yaml,India,West Indies,Lord's,London,2009-06-12,India,bat,T20,West Indies,7,0,20,DJ Bravo,"['Aleem Dar', 'RE Koertzen']",male,India,West Indies,131,153
+132,T20/356007.yaml,South Africa,West Indies,Kennington Oval,London,2009-06-13,West Indies,field,T20,South Africa,0,20,20,WD Parnell,"['Aleem Dar', 'MR Benson']",male,South Africa,West Indies,132,183
+133,T20/356008.yaml,New Zealand,Pakistan,Kennington Oval,London,2009-06-13,New Zealand,bat,T20,Pakistan,6,0,20,Umar Gul,"['MR Benson', 'RJ Tucker']",male,New Zealand,Pakistan,133,99
+134,T20/356009.yaml,Ireland,Sri Lanka,Lord's,London,2009-06-14,Sri Lanka,bat,T20,Sri Lanka,0,9,20,DPMD Jayawardene,"['M Erasmus', 'AL Hill']",male,Sri Lanka,Ireland,134,144
+135,T20/356010.yaml,England,India,Lord's,London,2009-06-14,India,field,T20,England,0,3,20,RJ Sidebottom,"['SJ Davis', 'EAR de Silva']",male,England,India,135,153
+136,T20/356011.yaml,England,West Indies,Kennington Oval,London,2009-06-15,England,bat,T20,D/L,5,0,20,RR Sarwan,"['Aleem Dar', 'RE Koertzen']",male,England,West Indies,136,161
+137,T20/356012.yaml,Ireland,Pakistan,Kennington Oval,London,2009-06-15,Pakistan,bat,T20,Pakistan,0,39,20,Kamran Akmal,"['RE Koertzen', 'RJ Tucker']",male,Pakistan,Ireland,137,159
+138,T20/356013.yaml,New Zealand,Sri Lanka,Trent Bridge,Nottingham,2009-06-16,Sri Lanka,bat,T20,Sri Lanka,0,48,20,BAW Mendis,"['SJ Davis', 'SJA Taufel']",male,Sri Lanka,New Zealand,138,158
+139,T20/356014.yaml,India,South Africa,Trent Bridge,Nottingham,2009-06-16,South Africa,bat,T20,South Africa,0,12,20,AB de Villiers,"['BF Bowden', 'IJ Gould']",male,South Africa,India,139,130
+140,T20/356015.yaml,Pakistan,South Africa,Trent Bridge,Nottingham,2009-06-18,Pakistan,bat,T20,Pakistan,0,7,20,Shahid Afridi,"['BF Bowden', 'SJ Davis']",male,Pakistan,South Africa,140,149
+141,T20/356016.yaml,Sri Lanka,West Indies,Kennington Oval,London,2009-06-19,West Indies,field,T20,Sri Lanka,0,57,20,TM Dilshan,"['Aleem Dar', 'RE Koertzen']",male,Sri Lanka,West Indies,141,158
+142,T20/356017.yaml,Pakistan,Sri Lanka,Lord's,London,2009-06-21,Sri Lanka,bat,T20,Pakistan,8,0,20,Shahid Afridi,"['DJ Harper', 'SJA Taufel']",male,Sri Lanka,Pakistan,142,138
+143,T20/361530.yaml,Ireland,Kenya,"Civil Service Cricket Club, Stormont",Belfast,2008-08-04,Ireland,field,T20,Ireland,4,0,20,AC Botha,"['DB Hair', 'Sarika Prasad']",male,Kenya,Ireland,143,67
+144,T20/361531.yaml,Netherlands,Scotland,"Civil Service Cricket Club, Stormont",Belfast,2008-08-04,Netherlands,field,T20,Netherlands,5,0,20,RN ten Doeschate,"['NG Bagh', 'PK Baldwin']",male,Scotland,Netherlands,144,107
+145,T20/361656.yaml,Pakistan,Sri Lanka,Maple Leaf North-West Ground,King City,2008-10-11,Pakistan,field,T20,Pakistan,3,0,20,Shoaib Malik,"['K Bayney', 'MR Benson']",male,Sri Lanka,Pakistan,145,137
+146,T20/361660.yaml,Pakistan,Sri Lanka,Maple Leaf North-West Ground,King City,2008-10-13,Sri Lanka,field,T20,Sri Lanka,5,0,20,ST Jayasuriya,"['K Bayney', 'MR Benson']",male,Pakistan,Sri Lanka,146,132
+147,T20/366622.yaml,New Zealand,India,Westpac Stadium,Wellington,2009-02-27,New Zealand,field,T20,New Zealand,5,0,20,BB McCullum,"['GAV Baxter', 'AL Hill']",male,India,New Zealand,147,149
+148,T20/366707.yaml,New Zealand,West Indies,Eden Park,Auckland,2008-12-26,New Zealand,bat,T20,tie,0,0,20,CH Gayle,"['BF Bowden', 'AL Hill']",male,New Zealand,West Indies,148,155
+149,T20/366708.yaml,New Zealand,West Indies,Seddon Park,Hamilton,2008-12-28,New Zealand,bat,T20,New Zealand,0,36,20,JD Ryder,"['GAV Baxter', 'EA Watkin']",male,New Zealand,West Indies,149,191
+150,T20/386494.yaml,New Zealand,India,AMI Stadium,Christchurch,2009-02-25,New Zealand,field,T20,New Zealand,7,0,20,BB McCullum,"['GAV Baxter', 'EA Watkin']",male,India,New Zealand,150,162
+151,T20/386535.yaml,Sri Lanka,India,R Premadasa Stadium,Colombo,2009-02-10,Sri Lanka,bat,T20,India,3,0,20,YK Pathan,"['MG Silva', 'TH Wijewardene']",male,Sri Lanka,India,151,171
+152,T20/387563.yaml,South Africa,England,New Wanderers Stadium,Johannesburg,2009-11-13,South Africa,field,T20,D/L,0,1,20,EJG Morgan,"['M Erasmus', 'BG Jerling']",male,England,South Africa,152,202
+153,T20/387564.yaml,South Africa,England,SuperSport Park,Centurion,2009-11-15,South Africa,bat,T20,South Africa,0,84,20,LE Bosman,"['M Erasmus', 'BG Jerling']",male,South Africa,England,153,241
+154,T20/392615.yaml,Australia,Pakistan,Dubai International Cricket Stadium,,2009-05-07,Pakistan,field,T20,Pakistan,7,0,20,Shahid Afridi,"['Aleem Dar', 'Zameer Haider']",male,Australia,Pakistan,154,108
+155,T20/401076.yaml,West Indies,Bangladesh,"Warner Park, Basseterre",St Kitts,2009-08-02,Bangladesh,bat,T20,West Indies,5,0,20,DJG Sammy,"['CR Duncan', 'NA Malcolm']",male,Bangladesh,West Indies,155,118
+156,T20/403375.yaml,Sri Lanka,Pakistan,R Premadasa Stadium,Colombo,2009-08-12,Pakistan,bat,T20,Pakistan,0,52,20,Shahid Afridi,"['EAR de Silva', 'TH Wijewardene']",male,Pakistan,Sri Lanka,156,172
+157,T20/403385.yaml,Sri Lanka,New Zealand,R Premadasa Stadium,Colombo,2009-09-02,New Zealand,bat,T20,New Zealand,0,3,20,DL Vettori,"['EAR de Silva', 'HDPK Dharmasena']",male,New Zealand,Sri Lanka,157,141
+158,T20/403386.yaml,Sri Lanka,New Zealand,R Premadasa Stadium,Colombo,2009-09-04,New Zealand,bat,T20,New Zealand,0,22,20,JD Ryder,"['MG Silva', 'TH Wijewardene']",male,New Zealand,Sri Lanka,158,170
+159,T20/406197.yaml,Australia,West Indies,Bellerive Oval,Hobart,2010-02-21,Australia,bat,T20,Australia,0,38,20,SW Tait,"['BNJ Oxenford', 'PR Reiffel']",male,Australia,West Indies,159,179
+160,T20/406198.yaml,Australia,West Indies,Sydney Cricket Ground,,2010-02-23,West Indies,bat,T20,Australia,8,0,20,DA Warner,"['BNJ Oxenford', 'RJ Tucker']",male,West Indies,Australia,160,138
+161,T20/406207.yaml,Australia,Pakistan,Melbourne Cricket Ground,,2010-02-05,Australia,bat,T20,Australia,0,2,20,SW Tait,"['PR Reiffel', 'RJ Tucker']",male,Australia,Pakistan,161,127
+162,T20/412677.yaml,West Indies,Ireland,Providence Stadium,Guyana,2010-04-30,West Indies,bat,T20,West Indies,0,70,20,DJG Sammy,"['Asad Rauf', 'BF Bowden']",male,West Indies,Ireland,162,138
+163,T20/412678.yaml,New Zealand,Sri Lanka,Providence Stadium,Guyana,2010-04-30,Sri Lanka,bat,T20,New Zealand,2,0,20,NL McCullum,"['SJ Davis', 'RE Koertzen']",male,Sri Lanka,New Zealand,163,135
+164,T20/412679.yaml,Afghanistan,India,"Beausejour Stadium, Gros Islet",St Lucia,2010-05-01,India,field,T20,India,7,0,20,A Nehra,"['Aleem Dar', 'M Erasmus']",male,Afghanistan,India,164,115
+165,T20/412680.yaml,Bangladesh,Pakistan,"Beausejour Stadium, Gros Islet",St Lucia,2010-05-01,Pakistan,bat,T20,Pakistan,0,21,20,Salman Butt,"['EAR de Silva', 'RJ Tucker']",male,Pakistan,Bangladesh,165,172
+166,T20/412681.yaml,England,Ireland,Providence Stadium,Guyana,2010-05-04,Ireland,field,T20,no result,0,0,20,,"['BF Bowden', 'AL Hill']",male,England,Ireland,166,120
+167,T20/412682.yaml,India,South Africa,"Beausejour Stadium, Gros Islet",St Lucia,2010-05-02,South Africa,field,T20,India,0,14,20,SK Raina,"['Aleem Dar', 'SJA Taufel']",male,India,South Africa,167,186
+168,T20/412683.yaml,Australia,Pakistan,"Beausejour Stadium, Gros Islet",St Lucia,2010-05-02,Australia,bat,T20,Australia,0,34,20,SR Watson,"['EAR de Silva', 'SK Tarapore']",male,Australia,Pakistan,168,191
+169,T20/412684.yaml,New Zealand,Zimbabwe,Providence Stadium,Guyana,2010-05-04,New Zealand,field,T20,D/L,0,7,20,NL McCullum,"['Asad Rauf', 'SJ Davis']",male,Zimbabwe,New Zealand,169,84
+170,T20/412685.yaml,West Indies,England,Providence Stadium,Guyana,2010-05-03,West Indies,field,T20,D/L,8,0,20,DJG Sammy,"['AL Hill', 'RE Koertzen']",male,England,West Indies,170,191
+171,T20/412686.yaml,Sri Lanka,Zimbabwe,Providence Stadium,Guyana,2010-05-03,Sri Lanka,bat,T20,D/L,0,14,20,DPMD Jayawardene,"['BR Doctrove', 'IJ Gould']",male,Sri Lanka,Zimbabwe,171,173
+172,T20/412687.yaml,Afghanistan,South Africa,"Kensington Oval, Bridgetown",Barbados,2010-05-05,Afghanistan,field,T20,South Africa,0,59,20,M Morkel,"['IJ Gould', 'SJA Taufel']",male,South Africa,Afghanistan,172,139
+173,T20/412688.yaml,Australia,Bangladesh,"Kensington Oval, Bridgetown",Barbados,2010-05-05,Australia,bat,T20,Australia,0,27,20,MEK Hussey,"['Aleem Dar', 'BR Doctrove']",male,Australia,Bangladesh,173,141
+174,T20/412689.yaml,England,Pakistan,"Kensington Oval, Bridgetown",Barbados,2010-05-06,England,field,T20,England,6,0,20,KP Pietersen,"['BF Bowden', 'RE Koertzen']",male,Pakistan,England,174,147
+175,T20/412690.yaml,New Zealand,South Africa,"Kensington Oval, Bridgetown",Barbados,2010-05-06,South Africa,bat,T20,South Africa,0,13,20,JA Morkel,"['Aleem Dar', 'SJ Davis']",male,South Africa,New Zealand,175,170
+176,T20/412691.yaml,Australia,India,"Kensington Oval, Bridgetown",Barbados,2010-05-07,India,field,T20,Australia,0,49,20,DA Warner,"['BF Bowden', 'BR Doctrove']",male,Australia,India,176,184
+177,T20/412692.yaml,West Indies,Sri Lanka,"Kensington Oval, Bridgetown",Barbados,2010-05-07,Sri Lanka,bat,T20,Sri Lanka,0,57,20,DPMD Jayawardene,"['RE Koertzen', 'SJA Taufel']",male,Sri Lanka,West Indies,177,195
+178,T20/412693.yaml,New Zealand,Pakistan,"Kensington Oval, Bridgetown",Barbados,2010-05-08,Pakistan,field,T20,New Zealand,0,1,20,IG Butler,"['BR Doctrove', 'IJ Gould']",male,New Zealand,Pakistan,178,133
+179,T20/412694.yaml,England,South Africa,"Kensington Oval, Bridgetown",Barbados,2010-05-08,England,bat,T20,England,0,39,20,KP Pietersen,"['Aleem Dar', 'SJ Davis']",male,England,South Africa,179,168
+180,T20/412695.yaml,West Indies,India,"Kensington Oval, Bridgetown",Barbados,2010-05-09,India,field,T20,West Indies,0,14,20,CH Gayle,"['BF Bowden', 'SJA Taufel']",male,West Indies,India,180,169
+181,T20/412696.yaml,Australia,Sri Lanka,"Kensington Oval, Bridgetown",Barbados,2010-05-09,Australia,bat,T20,Australia,0,81,20,CL White,"['IJ Gould', 'RE Koertzen']",male,Australia,Sri Lanka,181,168
+182,T20/412697.yaml,Pakistan,South Africa,"Beausejour Stadium, Gros Islet",St Lucia,2010-05-10,Pakistan,bat,T20,Pakistan,0,11,20,Umar Akmal,"['BR Doctrove', 'IJ Gould']",male,Pakistan,South Africa,182,148
+183,T20/412698.yaml,England,New Zealand,"Beausejour Stadium, Gros Islet",St Lucia,2010-05-10,New Zealand,bat,T20,England,3,0,20,TT Bresnan,"['SJ Davis', 'SJA Taufel']",male,New Zealand,England,183,149
+184,T20/412699.yaml,India,Sri Lanka,"Beausejour Stadium, Gros Islet",St Lucia,2010-05-11,India,bat,T20,Sri Lanka,5,0,20,AD Mathews,"['Aleem Dar', 'SJ Davis']",male,India,Sri Lanka,184,163
+185,T20/412700.yaml,West Indies,Australia,"Beausejour Stadium, Gros Islet",St Lucia,2010-05-11,West Indies,bat,T20,Australia,6,0,20,SPD Smith,"['BF Bowden', 'RE Koertzen']",male,West Indies,Australia,185,105
+186,T20/412701.yaml,England,Sri Lanka,"Beausejour Stadium, Gros Islet",St Lucia,2010-05-13,Sri Lanka,bat,T20,England,7,0,20,SCJ Broad,"['Aleem Dar', 'SJA Taufel']",male,Sri Lanka,England,186,128
+187,T20/412702.yaml,Australia,Pakistan,"Beausejour Stadium, Gros Islet",St Lucia,2010-05-14,Australia,field,T20,Australia,3,0,20,MEK Hussey,"['BR Doctrove', 'IJ Gould']",male,Pakistan,Australia,187,191
+188,T20/412703.yaml,Australia,England,"Kensington Oval, Bridgetown",Barbados,2010-05-16,England,field,T20,England,7,0,20,C Kieswetter,"['Aleem Dar', 'BR Doctrove']",male,Australia,England,188,147
+189,T20/423782.yaml,New Zealand,Bangladesh,Seddon Park,Hamilton,2010-02-03,Bangladesh,bat,T20,New Zealand,10,0,20,DL Vettori,"['GAV Baxter', 'CB Gaffaney']",male,Bangladesh,New Zealand,189,78
+190,T20/423787.yaml,New Zealand,Australia,Westpac Stadium,Wellington,2010-02-26,New Zealand,bat,T20,Australia,6,0,20,MG Johnson,"['GAV Baxter', 'BF Bowden']",male,New Zealand,Australia,190,118
+191,T20/423788.yaml,New Zealand,Australia,AMI Stadium,Christchurch,2010-02-28,New Zealand,bat,T20,tie,0,0,20,BB McCullum,"['CB Gaffaney', 'AL Hill']",male,New Zealand,Australia,191,214
+192,T20/426392.yaml,Australia,Pakistan,Edgbaston,Birmingham,2010-07-05,Pakistan,bat,T20,Pakistan,0,23,20,Umar Akmal,"['Aleem Dar', 'Asad Rauf']",male,Pakistan,Australia,192,167
+193,T20/426393.yaml,Australia,Pakistan,Edgbaston,Birmingham,2010-07-06,Pakistan,bat,T20,Pakistan,0,11,20,Mohammad Amir,"['Asad Rauf', 'Zameer Haider']",male,Pakistan,Australia,193,162
+194,T20/426417.yaml,England,Pakistan,Sophia Gardens,Cardiff,2010-09-05,England,field,T20,England,5,0,20,MH Yardy,"['RA Kettleborough', 'NJ Llong']",male,Pakistan,England,194,126
+195,T20/426418.yaml,England,Pakistan,Sophia Gardens,Cardiff,2010-09-07,Pakistan,bat,T20,England,6,0,20,TT Bresnan,"['IJ Gould', 'RK Illingworth']",male,Pakistan,England,195,89
+196,T20/426723.yaml,New Zealand,Pakistan,Dubai International Cricket Stadium,,2009-11-12,New Zealand,field,T20,Pakistan,0,49,20,Imran Nazir,"['Nadeem Ghauri', 'Zameer Haider']",male,Pakistan,New Zealand,196,161
+197,T20/426724.yaml,New Zealand,Pakistan,Dubai International Cricket Stadium,,2009-11-13,Pakistan,bat,T20,Pakistan,0,7,20,Umar Akmal,"['Nadeem Ghauri', 'Zameer Haider']",male,Pakistan,New Zealand,197,153
+198,T20/430884.yaml,India,Sri Lanka,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2009-12-09,India,field,T20,Sri Lanka,0,29,20,KC Sangakkara,"['AM Saheba', 'SK Tarapore']",male,Sri Lanka,India,198,215
+199,T20/430885.yaml,India,Sri Lanka,"Punjab Cricket Association Stadium, Mohali",Chandigarh,2009-12-12,Sri Lanka,bat,T20,India,6,0,20,Yuvraj Singh,"['SS Hazare', 'SK Tarapore']",male,Sri Lanka,India,199,206
+200,T20/439139.yaml,West Indies,Zimbabwe,"Queen's Park Oval, Port of Spain",Trinidad,2010-02-28,Zimbabwe,bat,T20,Zimbabwe,0,26,20,AG Cremer,"['CR Duncan', 'NA Malcolm']",male,Zimbabwe,West Indies,200,105
+201,T20/439146.yaml,West Indies,South Africa,"Sir Vivian Richards Stadium, North Sound",Antigua,2010-05-19,West Indies,field,T20,South Africa,0,13,20,R McLaren,"['CR Duncan', 'NA Malcolm']",male,South Africa,West Indies,201,136
+202,T20/439495.yaml,Afghanistan,Ireland,Dubai International Cricket Stadium,,2010-02-09,Ireland,field,T20,Afghanistan,0,13,20,Mohammad Nabi,"['JJ Luck', 'SR Modi']",male,Afghanistan,Ireland,202,139
+203,T20/439497.yaml,Canada,Netherlands,Dubai International Cricket Stadium,,2010-02-09,Canada,bat,T20,Netherlands,6,0,20,B Zuiderent,"['Aleem Dar', 'SR Modi']",male,Canada,Netherlands,203,142
+204,T20/439499.yaml,Canada,Kenya,Dubai International Cricket Stadium,,2010-02-10,Kenya,field,T20,Kenya,9,0,20,AA Obanda,"['JJ Luck', 'Sarika Prasad']",male,Canada,Kenya,204,138
+205,T20/439505.yaml,Ireland,Scotland,Dubai International Cricket Stadium,,2010-02-11,Ireland,bat,T20,Ireland,0,37,20,DT Johnston,"['Aleem Dar', 'PK Baldwin']",male,Ireland,Scotland,205,136
+206,T20/439507.yaml,Afghanistan,Netherlands,Dubai International Cricket Stadium,,2010-02-12,Netherlands,field,T20,Netherlands,4,0,20,RN ten Doeschate,"['SR Modi', 'Sarika Prasad']",male,Afghanistan,Netherlands,206,128
+207,T20/439510.yaml,Ireland,Netherlands,Dubai International Cricket Stadium,,2010-02-13,Ireland,bat,T20,Ireland,0,65,20,AR Cusack,"['Aleem Dar', 'SR Modi']",male,Ireland,Netherlands,207,151
+208,T20/439511.yaml,Afghanistan,Ireland,Dubai International Cricket Stadium,,2010-02-13,Ireland,bat,T20,Afghanistan,8,0,20,Mohammad Shahzad,"['PK Baldwin', 'Sarika Prasad']",male,Ireland,Afghanistan,208,142
+209,T20/440945.yaml,England,Pakistan,Dubai International Cricket Stadium,,2010-02-19,Pakistan,bat,T20,England,7,0,20,EJG Morgan,"['EAR de Silva', 'HDPK Dharmasena']",male,Pakistan,England,209,129
+210,T20/440946.yaml,England,Pakistan,Dubai International Cricket Stadium,,2010-02-20,Pakistan,field,T20,Pakistan,4,0,20,Abdul Razzaq,"['EAR de Silva', 'Enamul Haque']",male,England,Pakistan,210,148
+211,T20/446956.yaml,Australia,Sri Lanka,Western Australia Cricket Association Ground,Perth,2010-10-31,Australia,bat,T20,Sri Lanka,7,0,20,S Randiv,"['BNJ Oxenford', 'PR Reiffel']",male,Australia,Sri Lanka,211,133
+212,T20/446960.yaml,Australia,England,Adelaide Oval,,2011-01-12,Australia,bat,T20,England,1,0,20,SR Watson,"['SD Fry', 'BNJ Oxenford']",male,Australia,England,212,157
+213,T20/446961.yaml,Australia,England,Melbourne Cricket Ground,,2011-01-14,Australia,bat,T20,Australia,0,4,20,AJ Finch,"['BNJ Oxenford', 'PR Reiffel']",male,Australia,England,213,147
+214,T20/447539.yaml,West Indies,South Africa,"Sir Vivian Richards Stadium, North Sound",Antigua,2010-05-20,West Indies,field,T20,South Africa,0,1,20,J Botha,"['CR Duncan', 'NA Malcolm']",male,South Africa,West Indies,214,120
+215,T20/452153.yaml,Zimbabwe,India,Harare Sports Club,,2010-06-12,India,field,T20,India,6,0,20,YK Pathan,"['O Chirombe', 'RB Tiffin']",male,Zimbabwe,India,215,111
+216,T20/452154.yaml,Zimbabwe,India,Harare Sports Club,,2010-06-13,India,field,T20,India,7,0,20,SK Raina,"['O Chirombe', 'RB Tiffin']",male,Zimbabwe,India,216,140
+217,T20/456991.yaml,New Zealand,Sri Lanka,Central Broward Regional Park Stadium Turf Ground,Lauderhill,2010-05-22,New Zealand,bat,T20,New Zealand,0,28,20,SB Styris,"['M Erasmus', 'IJ Gould']",male,New Zealand,Sri Lanka,217,120
+218,T20/456992.yaml,New Zealand,Sri Lanka,Central Broward Regional Park Stadium Turf Ground,Lauderhill,2010-05-23,New Zealand,bat,T20,Sri Lanka,7,0,20,KMDN Kulasekara,"['M Erasmus', 'RJ Tucker']",male,New Zealand,Sri Lanka,218,81
+219,T20/461565.yaml,Pakistan,South Africa,Sheikh Zayed Stadium,Abu Dhabi,2010-10-27,Pakistan,bat,T20,South Africa,6,0,20,J Theron,"['Asad Rauf', 'Nadeem Ghauri']",male,Pakistan,South Africa,219,120
+220,T20/463141.yaml,South Africa,Zimbabwe,OUTsurance Oval,Bloemfontein,2010-10-08,Zimbabwe,bat,T20,South Africa,7,0,20,GC Smith,"['JD Cloete', 'BG Jerling']",male,Zimbabwe,South Africa,220,168
+221,T20/463142.yaml,South Africa,Zimbabwe,De Beers Diamond Oval,Kimberley,2010-10-10,South Africa,bat,T20,South Africa,0,8,20,JP Duminy,"['S George', 'BG Jerling']",male,South Africa,Zimbabwe,221,194
+222,T20/463149.yaml,South Africa,India,Moses Mabhida Stadium,Durban,2011-01-09,India,bat,T20,India,0,21,20,RG Sharma,"['M Erasmus', 'BG Jerling']",male,India,South Africa,222,168
+223,T20/473918.yaml,New Zealand,Pakistan,Eden Park,Auckland,2010-12-26,New Zealand,field,T20,New Zealand,5,0,20,TG Southee,"['BF Bowden', 'BG Frost']",male,Pakistan,New Zealand,223,143
+224,T20/473919.yaml,New Zealand,Pakistan,Seddon Park,Hamilton,2010-12-28,Pakistan,field,T20,New Zealand,0,39,20,NL McCullum,"['GAV Baxter', 'CB Gaffaney']",male,New Zealand,Pakistan,224,185
+225,T20/473920.yaml,New Zealand,Pakistan,AMI Stadium,Christchurch,2010-12-30,Pakistan,bat,T20,Pakistan,0,103,20,Abdul Razzaq,"['GAV Baxter', 'CB Gaffaney']",male,Pakistan,New Zealand,225,183
+226,T20/474466.yaml,England,Sri Lanka,County Ground,Bristol,2011-06-25,Sri Lanka,field,T20,Sri Lanka,9,0,20,DPMD Jayawardene,"['RA Kettleborough', 'NJ Llong']",male,England,Sri Lanka,226,136
+227,T20/474476.yaml,England,India,Old Trafford,Manchester,2011-08-31,India,bat,T20,England,6,0,20,JW Dernbach,"['RJ Bailey', 'RK Illingworth']",male,India,England,227,165
+228,T20/478279.yaml,Pakistan,South Africa,Sheikh Zayed Stadium,Abu Dhabi,2010-10-26,Pakistan,bat,T20,South Africa,6,0,20,JP Duminy,"['Ahsan Raza', 'Asad Rauf']",male,Pakistan,South Africa,228,119
+229,T20/489212.yaml,West Indies,Pakistan,"Beausejour Stadium, Gros Islet",St Lucia,2011-04-21,West Indies,bat,T20,West Indies,0,7,20,D Bishoo,"['NA Malcolm', 'PJ Nero']",male,West Indies,Pakistan,229,150
+230,T20/489220.yaml,West Indies,India,"Queen's Park Oval, Port of Spain",Trinidad,2011-06-04,West Indies,field,T20,India,0,16,20,S Badrinath,"['NA Malcolm', 'PJ Nero']",male,India,West Indies,230,159
+231,T20/514023.yaml,South Africa,Australia,Newlands,Cape Town,2011-10-13,South Africa,bat,T20,Australia,5,0,20,SR Watson,"['M Erasmus', 'AT Holdstock']",male,South Africa,Australia,231,146
+232,T20/514024.yaml,South Africa,Australia,New Wanderers Stadium,Johannesburg,2011-10-16,Australia,bat,T20,South Africa,3,0,20,J Theron,"['JD Cloete', 'S George']",male,Australia,South Africa,232,147
+233,T20/516204.yaml,Sri Lanka,Australia,Pallekele International Cricket Stadium,,2011-08-06,Australia,field,T20,Sri Lanka,0,35,20,TM Dilshan,"['EAR de Silva', 'RSA Palliyaguruge']",male,Sri Lanka,Australia,233,198
+234,T20/516205.yaml,Sri Lanka,Australia,Pallekele International Cricket Stadium,,2011-08-08,Sri Lanka,bat,T20,Sri Lanka,0,8,20,BAW Mendis,"['REJ Martinesz', 'RSA Palliyaguruge']",male,Sri Lanka,Australia,234,157
+235,T20/518954.yaml,Australia,India,Stadium Australia,Sydney,2012-02-01,India,field,T20,Australia,0,31,20,MS Wade,"['BNJ Oxenford', 'PR Reiffel']",male,Australia,India,235,171
+236,T20/518955.yaml,Australia,India,Melbourne Cricket Ground,,2012-02-03,Australia,bat,T20,India,8,0,20,RA Jadeja,"['SD Fry', 'BNJ Oxenford']",male,Australia,India,236,131
+237,T20/520595.yaml,New Zealand,Zimbabwe,Eden Park,Auckland,2012-02-11,Zimbabwe,bat,T20,New Zealand,7,0,20,MJ Guptill,"['GAV Baxter', 'BG Frost']",male,Zimbabwe,New Zealand,237,159
+238,T20/520596.yaml,New Zealand,Zimbabwe,Seddon Park,Hamilton,2012-02-14,Zimbabwe,bat,T20,New Zealand,5,0,20,JEC Franklin,"['CB Gaffaney', 'AL Hill']",male,Zimbabwe,New Zealand,238,200
+239,T20/520597.yaml,New Zealand,South Africa,Westpac Stadium,Wellington,2012-02-17,New Zealand,field,T20,New Zealand,6,0,20,MJ Guptill,"['GAV Baxter', 'BG Frost']",male,South Africa,New Zealand,239,147
+240,T20/520598.yaml,New Zealand,South Africa,Seddon Park,Hamilton,2012-02-19,South Africa,field,T20,South Africa,8,0,20,RE Levi,"['GAV Baxter', 'CB Gaffaney']",male,New Zealand,South Africa,240,173
+241,T20/520599.yaml,New Zealand,South Africa,Eden Park,Auckland,2012-02-22,New Zealand,field,T20,South Africa,0,3,20,J Botha,"['GAV Baxter', 'CB Gaffaney']",male,South Africa,New Zealand,241,165
+242,T20/521217.yaml,India,England,Eden Gardens,Kolkata,2011-10-29,India,bat,T20,England,6,0,20,KP Pietersen,"['S Asnani', 'S Ravi']",male,India,England,242,120
+243,T20/523735.yaml,Zimbabwe,Pakistan,Harare Sports Club,,2011-09-16,Zimbabwe,field,T20,Pakistan,0,85,20,Mohammad Hafeez,"['TJ Matibiri', 'RB Tiffin']",male,Pakistan,Zimbabwe,243,198
+244,T20/523736.yaml,Zimbabwe,Pakistan,Harare Sports Club,,2011-09-18,Pakistan,bat,T20,Pakistan,0,5,20,Mohammad Hafeez,"['O Chirombe', 'TJ Matibiri']",male,Pakistan,Zimbabwe,244,141
+245,T20/525816.yaml,England,West Indies,Kennington Oval,London,2011-09-23,England,field,T20,England,10,0,20,RS Bopara,"['RJ Bailey', 'NJ Llong']",male,West Indies,England,245,125
+246,T20/525817.yaml,England,West Indies,Kennington Oval,London,2011-09-25,England,field,T20,West Indies,0,25,20,GE Mathurin,"['RK Illingworth', 'NJ Llong']",male,West Indies,England,246,113
+247,T20/527012.yaml,Zimbabwe,New Zealand,Harare Sports Club,,2011-10-15,New Zealand,field,T20,New Zealand,10,0,20,BB McCullum,"['TJ Matibiri', 'RB Tiffin']",male,Zimbabwe,New Zealand,247,123
+248,T20/527013.yaml,Zimbabwe,New Zealand,Harare Sports Club,,2011-10-17,Zimbabwe,field,T20,D/L,0,34,20,MJ Guptill,"['O Chirombe', 'TJ Matibiri']",male,New Zealand,Zimbabwe,248,187
+249,T20/530432.yaml,Pakistan,Sri Lanka,Sheikh Zayed Stadium,Abu Dhabi,2011-11-25,Sri Lanka,bat,T20,Pakistan,5,0,20,Aizaz Cheema,"['Ahsan Raza', 'Zameer Haider']",male,Sri Lanka,Pakistan,249,141
+250,T20/531635.yaml,England,Pakistan,Dubai International Cricket Stadium,,2012-02-23,England,field,T20,Pakistan,0,8,20,Umar Gul,"['Ahsan Raza', 'Shozab Raza']",male,Pakistan,England,250,144
+251,T20/531636.yaml,England,Pakistan,Dubai International Cricket Stadium,,2012-02-25,England,bat,T20,England,0,38,20,JM Bairstow,"['Ahsan Raza', 'Zameer Haider']",male,England,Pakistan,251,150
+252,T20/531637.yaml,England,Pakistan,Sheikh Zayed Stadium,Abu Dhabi,2012-02-27,England,bat,T20,England,0,5,20,KP Pietersen,"['Shozab Raza', 'Zameer Haider']",male,England,Pakistan,252,129
+253,T20/531982.yaml,Bangladesh,West Indies,Shere Bangla National Stadium,Mirpur,2011-10-11,Bangladesh,field,T20,Bangladesh,3,0,20,Mushfiqur Rahim,"['Enamul Haque', 'Nadir Shah']",male,West Indies,Bangladesh,253,132
+254,T20/533272.yaml,Sri Lanka,Zimbabwe,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,2012-09-18,Zimbabwe,field,T20,Sri Lanka,0,82,20,BAW Mendis,"['IJ Gould', 'RJ Tucker']",male,Sri Lanka,Zimbabwe,254,182
+255,T20/533273.yaml,Australia,Ireland,R Premadasa Stadium,Colombo,2012-09-19,Ireland,bat,T20,Australia,7,0,20,SR Watson,"['Aleem Dar', 'HDPK Dharmasena']",male,Ireland,Australia,255,123
+256,T20/533274.yaml,Afghanistan,India,R Premadasa Stadium,Colombo,2012-09-19,Afghanistan,field,T20,India,0,23,20,V Kohli,"['Asad Rauf', 'SJA Taufel']",male,India,Afghanistan,256,159
+257,T20/533275.yaml,South Africa,Zimbabwe,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,2012-09-20,South Africa,field,T20,South Africa,10,0,20,JH Kallis,"['SJ Davis', 'RA Kettleborough']",male,Zimbabwe,South Africa,257,93
+258,T20/533276.yaml,Bangladesh,New Zealand,Pallekele International Cricket Stadium,,2012-09-21,Bangladesh,field,T20,New Zealand,0,59,20,BB McCullum,"['M Erasmus', 'NJ Llong']",male,New Zealand,Bangladesh,258,191
+259,T20/533277.yaml,Afghanistan,England,R Premadasa Stadium,Colombo,2012-09-21,Afghanistan,field,T20,England,0,116,20,LJ Wright,"['HDPK Dharmasena', 'SJA Taufel']",male,England,Afghanistan,259,196
+260,T20/533278.yaml,Sri Lanka,South Africa,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,2012-09-22,Sri Lanka,field,T20,South Africa,0,32,20,AB de Villiers,"['RA Kettleborough', 'RJ Tucker']",male,South Africa,Sri Lanka,260,78
+261,T20/533279.yaml,Australia,West Indies,R Premadasa Stadium,Colombo,2012-09-22,West Indies,bat,T20,D/L,0,17,20,SR Watson,"['Aleem Dar', 'Asad Rauf']",male,West Indies,Australia,261,191
+262,T20/533280.yaml,New Zealand,Pakistan,Pallekele International Cricket Stadium,,2012-09-23,Pakistan,bat,T20,Pakistan,0,13,20,Nasir Jamshed,"['M Erasmus', 'BNJ Oxenford']",male,Pakistan,New Zealand,262,177
+263,T20/533281.yaml,England,India,R Premadasa Stadium,Colombo,2012-09-23,England,field,T20,India,0,90,20,Harbhajan Singh,"['Aleem Dar', 'SJA Taufel']",male,India,England,263,170
+264,T20/533283.yaml,Bangladesh,Pakistan,Pallekele International Cricket Stadium,,2012-09-25,Bangladesh,bat,T20,Pakistan,8,0,20,Imran Nazir,"['SJ Davis', 'IJ Gould']",male,Bangladesh,Pakistan,265,304
+265,T20/533284.yaml,Sri Lanka,New Zealand,Pallekele International Cricket Stadium,,2012-09-27,New Zealand,bat,T20,tie,0,0,20,TM Dilshan,"['Aleem Dar', 'SJA Taufel']",male,New Zealand,Sri Lanka,266,174
+266,T20/533285.yaml,England,West Indies,Pallekele International Cricket Stadium,,2012-09-27,West Indies,bat,T20,West Indies,0,15,20,J Charles,"['Asad Rauf', 'SJ Davis']",male,West Indies,England,267,179
+267,T20/533286.yaml,Pakistan,South Africa,R Premadasa Stadium,Colombo,2012-09-28,South Africa,bat,T20,Pakistan,2,0,20,Umar Gul,"['IJ Gould', 'RJ Tucker']",male,South Africa,Pakistan,268,133
+268,T20/533287.yaml,Australia,India,R Premadasa Stadium,Colombo,2012-09-28,India,bat,T20,Australia,9,0,20,SR Watson,"['HDPK Dharmasena', 'RA Kettleborough']",male,India,Australia,269,140
+269,T20/533288.yaml,England,New Zealand,Pallekele International Cricket Stadium,,2012-09-29,New Zealand,bat,T20,England,6,0,20,LJ Wright,"['Asad Rauf', 'SJA Taufel']",male,New Zealand,England,270,148
+270,T20/533289.yaml,Sri Lanka,West Indies,Pallekele International Cricket Stadium,,2012-09-29,West Indies,bat,T20,Sri Lanka,9,0,20,DPMD Jayawardene,"['Aleem Dar', 'SJ Davis']",male,West Indies,Sri Lanka,271,129
+271,T20/533290.yaml,Australia,South Africa,R Premadasa Stadium,Colombo,2012-09-30,Australia,field,T20,Australia,8,0,20,SR Watson,"['HDPK Dharmasena', 'IJ Gould']",male,South Africa,Australia,272,146
+272,T20/533291.yaml,India,Pakistan,R Premadasa Stadium,Colombo,2012-09-30,Pakistan,bat,T20,India,8,0,20,V Kohli,"['RA Kettleborough', 'RJ Tucker']",male,Pakistan,India,273,128
+273,T20/533292.yaml,New Zealand,West Indies,Pallekele International Cricket Stadium,,2012-10-01,New Zealand,field,T20,tie,0,0,20,SP Narine,"['Aleem Dar', 'Asad Rauf']",male,West Indies,New Zealand,274,139
+274,T20/533293.yaml,Sri Lanka,England,Pallekele International Cricket Stadium,,2012-10-01,England,field,T20,Sri Lanka,0,19,20,SL Malinga,"['SJ Davis', 'SJA Taufel']",male,Sri Lanka,England,275,169
+275,T20/533294.yaml,Australia,Pakistan,R Premadasa Stadium,Colombo,2012-10-02,Australia,field,T20,Pakistan,0,32,20,Raza Hasan,"['IJ Gould', 'RA Kettleborough']",male,Pakistan,Australia,276,149
+276,T20/533295.yaml,India,South Africa,R Premadasa Stadium,Colombo,2012-10-02,South Africa,field,T20,India,0,1,20,Yuvraj Singh,"['HDPK Dharmasena', 'RJ Tucker']",male,India,South Africa,277,152
+277,T20/533296.yaml,Sri Lanka,Pakistan,R Premadasa Stadium,Colombo,2012-10-04,Sri Lanka,bat,T20,Sri Lanka,0,16,20,DPMD Jayawardene,"['SJA Taufel', 'RJ Tucker']",male,Sri Lanka,Pakistan,278,139
+278,T20/533297.yaml,Australia,West Indies,R Premadasa Stadium,Colombo,2012-10-05,West Indies,bat,T20,West Indies,0,74,20,CH Gayle,"['Aleem Dar', 'HDPK Dharmasena']",male,West Indies,Australia,279,205
+279,T20/533298.yaml,Sri Lanka,West Indies,R Premadasa Stadium,Colombo,2012-10-07,West Indies,bat,T20,West Indies,0,36,20,MN Samuels,"['Aleem Dar', 'SJA Taufel']",male,West Indies,Sri Lanka,280,137
+280,T20/534208.yaml,England,West Indies,Trent Bridge,Nottingham,2012-06-24,West Indies,bat,T20,England,7,0,20,AD Hales,"['RK Illingworth', 'RA Kettleborough']",male,West Indies,England,281,172
+281,T20/534233.yaml,England,South Africa,Riverside Ground,Chester-le-Street,2012-09-08,South Africa,field,T20,South Africa,7,0,20,DW Steyn,"['RJ Bailey', 'RK Illingworth']",male,England,South Africa,282,118
+282,T20/534234.yaml,England,South Africa,Old Trafford,Manchester,2012-09-10,England,field,T20,no result,0,0,20,,"['RJ Bailey', 'RK Illingworth']",male,South Africa,England,283,77
+283,T20/534235.yaml,England,South Africa,Edgbaston,Birmingham,2012-09-12,South Africa,field,T20,England,0,28,20,JC Buttler,"['RJ Bailey', 'RK Illingworth']",male,England,South Africa,284,118
+284,T20/538068.yaml,Bangladesh,Pakistan,Shere Bangla National Stadium,Mirpur,2011-11-29,Pakistan,bat,T20,Pakistan,0,50,20,Mohammad Hafeez,"['Nadir Shah', 'Sharfuddoula']",male,Pakistan,Bangladesh,285,135
+285,T20/540173.yaml,West Indies,Australia,"Beausejour Stadium, Gros Islet",St Lucia,2012-03-27,West Indies,bat,T20,Australia,8,0,20,SR Watson,"['GO Brathwaite', 'PJ Nero']",male,West Indies,Australia,286,150
+286,T20/540174.yaml,West Indies,Australia,"Kensington Oval, Bridgetown",Barbados,2012-03-30,West Indies,bat,T20,West Indies,0,14,20,DR Smith,"['PJ Nero', 'JS Wilson']",male,West Indies,Australia,287,160
+287,T20/543883.yaml,Kenya,Ireland,Mombasa Sports Club Ground,,2012-02-22,Ireland,field,T20,Ireland,6,0,20,GH Dockrell,"['S George', 'D Odhiambo']",male,Kenya,Ireland,288,107
+288,T20/543884.yaml,Kenya,Ireland,Mombasa Sports Club Ground,,2012-02-23,Kenya,bat,T20,Ireland,8,0,20,PR Stirling,"['S George', 'D Odhiambo']",male,Kenya,Ireland,289,131
+289,T20/543885.yaml,Kenya,Ireland,Mombasa Sports Club Ground,,2012-02-24,Ireland,bat,T20,Ireland,0,2,20,SO Ngoche,"['S George', 'D Odhiambo']",male,Ireland,Kenya,290,107
+290,T20/546410.yaml,Canada,Netherlands,Dubai International Cricket Stadium,,2012-03-13,Netherlands,bat,T20,Netherlands,0,42,20,Mudassar Bukhari,"['M Hawthorne', 'JS Wilson']",male,Netherlands,Canada,291,135
+291,T20/546414.yaml,Ireland,Kenya,Dubai International Cricket Stadium,,2012-03-14,Kenya,bat,T20,Ireland,10,0,20,WB Rankin,"['BB Pradhan', 'SJA Taufel']",male,Kenya,Ireland,292,71
+292,T20/546418.yaml,Afghanistan,Netherlands,Dubai International Cricket Stadium,,2012-03-14,Netherlands,bat,T20,Afghanistan,4,0,20,Mohammad Shahzad,"['JD Cloete', 'SJA Taufel']",male,Netherlands,Afghanistan,293,149
+293,T20/546442.yaml,Ireland,Scotland,Dubai International Cricket Stadium,,2012-03-18,Ireland,bat,T20,Ireland,0,17,20,EC Joyce,"['REJ Martinesz', 'SJA Taufel']",male,Ireland,Scotland,294,159
+294,T20/546443.yaml,Afghanistan,Canada,ICC Global Cricket Academy,Dubai,2012-03-18,Afghanistan,bat,T20,Afghanistan,0,41,20,Samiullah Shenwari,"['S Asnani', 'JS Wilson']",male,Afghanistan,Canada,295,174
+295,T20/546462.yaml,Canada,Ireland,Dubai International Cricket Stadium,,2012-03-22,Canada,bat,T20,Ireland,10,0,20,PR Stirling,"['JD Cloete', 'CB Gaffaney']",male,Canada,Ireland,296,106
+296,T20/546470.yaml,Ireland,Netherlands,Dubai International Cricket Stadium,,2012-03-23,Ireland,field,T20,Ireland,7,0,20,KJ O'Brien,"['Ahsan Raza', 'CB Gaffaney']",male,Netherlands,Ireland,297,114
+297,T20/546473.yaml,Canada,Scotland,Dubai International Cricket Stadium,,2012-03-23,Canada,bat,T20,Scotland,4,0,20,RD Berrington,"['BB Pradhan', 'JS Wilson']",male,Canada,Scotland,298,135
+298,T20/546477.yaml,Afghanistan,Ireland,Dubai International Cricket Stadium,,2012-03-24,Afghanistan,bat,T20,Ireland,5,0,20,PR Stirling,"['CB Gaffaney', 'BB Pradhan']",male,Afghanistan,Ireland,299,152
+299,T20/556252.yaml,South Africa,India,New Wanderers Stadium,Johannesburg,2012-03-30,India,field,T20,D/L,0,11,20,CA Ingram,"['JD Cloete', 'S George']",male,South Africa,India,300,219
+300,T20/560921.yaml,New Zealand,West Indies,Central Broward Regional Park Stadium Turf Ground,Lauderhill,2012-06-30,New Zealand,field,T20,West Indies,0,56,20,CH Gayle,"['PJ Nero', 'JS Wilson']",male,West Indies,New Zealand,301,209
+301,T20/560922.yaml,New Zealand,West Indies,Central Broward Regional Park Stadium Turf Ground,Lauderhill,2012-07-01,West Indies,bat,T20,West Indies,0,61,20,SP Narine,"['PJ Nero', 'JS Wilson']",male,West Indies,New Zealand,302,177
+302,T20/562437.yaml,Sri Lanka,Pakistan,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,2012-06-01,Sri Lanka,bat,T20,Sri Lanka,0,37,20,NLTC Perera,"['EAR de Silva', 'REJ Martinesz']",male,Sri Lanka,Pakistan,303,132
+303,T20/562438.yaml,Sri Lanka,Pakistan,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,2012-06-03,Pakistan,bat,T20,Pakistan,0,23,20,Shahid Afridi,"['REJ Martinesz', 'RSA Palliyaguruge']",male,Pakistan,Sri Lanka,304,122
+304,T20/564786.yaml,Sri Lanka,India,Pallekele International Cricket Stadium,,2012-08-07,Sri Lanka,field,T20,India,0,39,20,IK Pathan,"['HDPK Dharmasena', 'TH Wijewardene']",male,India,Sri Lanka,305,155
+305,T20/565810.yaml,India,England,Subrata Roy Sahara Stadium,Pune,2012-12-20,India,field,T20,India,5,0,20,Yuvraj Singh,"['S Asnani', 'C Shamshuddin']",male,England,India,306,157
+306,T20/565811.yaml,India,England,Wankhede Stadium,Mumbai,2012-12-22,England,field,T20,England,6,0,20,EJG Morgan,"['VA Kulkarni', 'S Ravi']",male,India,England,307,177
+307,T20/565820.yaml,India,New Zealand,"MA Chidambaram Stadium, Chepauk",Chennai,2012-09-11,India,field,T20,New Zealand,0,1,20,BB McCullum,"['VA Kulkarni', 'S Ravi']",male,New Zealand,India,308,167
+308,T20/566926.yaml,England,New Zealand,Kennington Oval,London,2013-06-25,England,field,T20,New Zealand,0,5,20,HD Rutherford,"['RJ Bailey', 'RK Illingworth']",male,New Zealand,England,309,201
+309,T20/566937.yaml,England,Australia,The Rose Bowl,Southampton,2013-08-29,England,field,T20,Australia,0,39,20,AJ Finch,"['RJ Bailey', 'RT Robinson']",male,Australia,England,311,250
+310,T20/566938.yaml,England,Australia,Riverside Ground,Chester-le-Street,2013-08-31,Australia,field,T20,England,0,27,20,AD Hales,"['RJ Bailey', 'MA Gough']",male,England,Australia,312,195
+311,T20/567071.yaml,Ireland,Bangladesh,"Civil Service Cricket Club, Stormont",Belfast,2012-07-18,Ireland,field,T20,Bangladesh,0,71,20,Elias Sunny,"['M Hawthorne', 'RP Smith']",male,Bangladesh,Ireland,313,190
+312,T20/567205.yaml,Netherlands,Bangladesh,Sportpark Westvliet,The Hague,2012-07-25,Netherlands,bat,T20,Bangladesh,8,0,20,,"['IN Ramage', 'RP Smith']",male,Netherlands,Bangladesh,314,144
+313,T20/567353.yaml,South Africa,New Zealand,Kingsmead,Durban,2012-12-21,New Zealand,bat,T20,South Africa,8,0,20,RK Kleinveldt,"['JD Cloete', 'S George']",male,New Zealand,South Africa,315,86
+314,T20/567354.yaml,South Africa,New Zealand,Buffalo Park,East London,2012-12-23,New Zealand,field,T20,D/L,8,0,20,MJ Guptill,"['S George', 'AT Holdstock']",male,South Africa,New Zealand,316,165
+315,T20/567355.yaml,South Africa,New Zealand,St George's Park,Port Elizabeth,2012-12-26,South Africa,bat,T20,South Africa,0,33,20,H Davids,"['JD Cloete', 'AT Holdstock']",male,South Africa,New Zealand,317,179
+316,T20/567367.yaml,South Africa,Pakistan,SuperSport Park,Centurion,2013-03-03,Pakistan,bat,T20,Pakistan,0,95,20,Mohammad Hafeez,"['JD Cloete', 'S George']",male,Pakistan,South Africa,318,195
+317,T20/569237.yaml,New Zealand,England,Eden Park,Auckland,2013-02-09,New Zealand,field,T20,England,0,40,20,,"['CB Gaffaney', 'DJ Walker']",male,England,New Zealand,319,214
+318,T20/569238.yaml,New Zealand,England,Seddon Park,Hamilton,2013-02-12,England,field,T20,New Zealand,0,55,20,,"['GAV Baxter', 'DJ Walker']",male,New Zealand,England,320,192
+319,T20/569239.yaml,New Zealand,England,Westpac Stadium,Wellington,2013-02-15,England,field,T20,England,10,0,20,,"['GAV Baxter', 'CB Gaffaney']",male,New Zealand,England,321,139
+320,T20/571148.yaml,Australia,Pakistan,Dubai International Cricket Stadium,,2012-09-05,Pakistan,field,T20,Pakistan,7,0,20,Mohammad Hafeez,"['Ahsan Raza', 'Shozab Raza']",male,Australia,Pakistan,322,89
+321,T20/571149.yaml,Australia,Pakistan,Dubai International Cricket Stadium,,2012-09-07,Pakistan,bat,T20,tie,0,0,20,Saeed Ajmal,"['Shozab Raza', 'Zameer Haider']",male,Pakistan,Australia,323,151
+322,T20/571150.yaml,Australia,Pakistan,Dubai International Cricket Stadium,,2012-09-10,Pakistan,field,T20,Australia,0,94,20,DA Warner,"['Ahsan Raza', 'Zameer Haider']",male,Australia,Pakistan,324,168
+323,T20/573019.yaml,Australia,Sri Lanka,Stadium Australia,Sydney,2013-01-26,Australia,bat,T20,Sri Lanka,5,0,20,DA Warner,"['SD Fry', 'PR Reiffel']",male,Australia,Sri Lanka,325,137
+324,T20/573020.yaml,Australia,Sri Lanka,Melbourne Cricket Ground,,2013-01-28,Australia,field,T20,D/L,0,2,20,NLTC Perera,"['SD Fry', 'JD Ward']",male,Sri Lanka,Australia,326,161
+325,T20/573027.yaml,Australia,West Indies,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2013-02-13,West Indies,bat,T20,West Indies,0,27,20,KA Pollard,"['PR Reiffel', 'JD Ward']",male,West Indies,Australia,327,191
+326,T20/573672.yaml,Netherlands,Bangladesh,Sportpark Westvliet,The Hague,2012-07-26,Bangladesh,bat,T20,Netherlands,1,0,20,,"['IN Ramage', 'RP Smith']",male,Bangladesh,Netherlands,328,128
+327,T20/582186.yaml,Sri Lanka,New Zealand,Pallekele International Cricket Stadium,,2012-10-30,Sri Lanka,field,T20,no result,0,0,20,,"['REJ Martinesz', 'RSA Palliyaguruge']",male,New Zealand,Sri Lanka,329,74
+328,T20/587476.yaml,Bangladesh,West Indies,Shere Bangla National Stadium,Mirpur,2012-12-10,West Indies,bat,T20,West Indies,0,18,20,MN Samuels,"['Anisur Rahman', 'Enamul Haque']",male,West Indies,Bangladesh,330,197
+329,T20/589306.yaml,India,Pakistan,M Chinnaswamy Stadium,Bangalore,2012-12-25,Pakistan,field,T20,Pakistan,5,0,20,Mohammad Hafeez,"['S Ravi', 'C Shamshuddin']",male,India,Pakistan,331,133
+330,T20/589307.yaml,India,Pakistan,"Sardar Patel Stadium, Motera",Ahmedabad,2012-12-28,Pakistan,field,T20,India,0,11,20,Yuvraj Singh,"['S Asnani', 'VA Kulkarni']",male,India,Pakistan,332,192
+331,T20/592268.yaml,Canada,Kenya,ICC Global Cricket Academy,Dubai,2013-03-15,Kenya,bat,T20,Canada,5,0,20,Junaid Siddiqui,"['RJ Bailey', 'D Odhiambo']",male,Kenya,Canada,333,126
+332,T20/592269.yaml,Canada,Kenya,ICC Global Cricket Academy,Dubai,2013-03-16,Kenya,bat,T20,Kenya,0,21,20,CO Obuya,"['RJ Bailey', 'D Odhiambo']",male,Kenya,Canada,334,139
+333,T20/592272.yaml,Afghanistan,Scotland,Sharjah Cricket Stadium,,2013-03-03,Afghanistan,bat,T20,Afghanistan,0,27,20,Mohammad Shahzad,"['RSA Palliyaguruge', 'Sarika Prasad']",male,Afghanistan,Scotland,335,132
+334,T20/592273.yaml,Afghanistan,Scotland,Sharjah Cricket Stadium,,2013-03-04,Scotland,bat,T20,Afghanistan,7,0,20,Mohammad Shahzad,"['RSA Palliyaguruge', 'Sarika Prasad']",male,Scotland,Afghanistan,336,139
+335,T20/592276.yaml,Kenya,Netherlands,Wanderers Cricket Ground,Windhoek,2013-04-20,Kenya,field,T20,Kenya,7,0,20,,"['S George', 'AT Holdstock']",male,Netherlands,Kenya,337,113
+336,T20/593986.yaml,West Indies,Zimbabwe,"Sir Vivian Richards Stadium, North Sound",Antigua,2013-03-02,Zimbabwe,bat,T20,West Indies,8,0,20,LMP Simmons,"['PJ Nero', 'JS Wilson']",male,Zimbabwe,West Indies,338,130
+337,T20/593987.yaml,West Indies,Zimbabwe,"Sir Vivian Richards Stadium, North Sound",Antigua,2013-03-03,West Indies,bat,T20,West Indies,0,41,20,S Badree,"['GO Brathwaite', 'JS Wilson']",male,West Indies,Zimbabwe,339,158
+338,T20/602477.yaml,Sri Lanka,Bangladesh,Pallekele International Cricket Stadium,,2013-03-31,Bangladesh,field,T20,Sri Lanka,0,17,20,MDKJ Perera,"['REJ Martinesz', 'RSA Palliyaguruge']",male,Sri Lanka,Bangladesh,340,198
+339,T20/623571.yaml,Zimbabwe,Bangladesh,Queens Sports Club,Bulawayo,2013-05-11,Zimbabwe,bat,T20,Zimbabwe,0,6,20,H Masakadza,"['O Chirombe', 'RB Tiffin']",male,Zimbabwe,Bangladesh,341,168
+340,T20/623572.yaml,Zimbabwe,Bangladesh,Queens Sports Club,Bulawayo,2013-05-12,Bangladesh,bat,T20,Bangladesh,0,34,20,Shakib Al Hasan,"['O Chirombe', 'TJ Matibiri']",male,Bangladesh,Zimbabwe,342,168
+341,T20/630951.yaml,Kenya,Netherlands,Wanderers Cricket Ground,Windhoek,2013-04-19,Netherlands,bat,T20,Kenya,5,0,20,,"['S George', 'AT Holdstock']",male,Netherlands,Kenya,343,172
+342,T20/635658.yaml,Sri Lanka,South Africa,R Premadasa Stadium,Colombo,2013-08-02,South Africa,bat,T20,South Africa,0,12,20,JP Duminy,"['REJ Martinesz', 'RR Wimalasiri']",male,South Africa,Sri Lanka,344,115
+343,T20/635659.yaml,Sri Lanka,South Africa,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,2013-08-04,South Africa,bat,T20,South Africa,0,22,20,DA Miller,"['REJ Martinesz', 'RSA Palliyaguruge']",male,South Africa,Sri Lanka,345,145
+344,T20/635660.yaml,Sri Lanka,South Africa,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,2013-08-06,South Africa,bat,T20,Sri Lanka,6,0,20,TM Dilshan,"['REJ Martinesz', 'RSA Palliyaguruge']",male,South Africa,Sri Lanka,346,163
+345,T20/636164.yaml,Australia,England,Bellerive Oval,Hobart,2014-01-29,Australia,bat,T20,Australia,0,13,20,CL White,"['SD Fry', 'JD Ward']",male,Australia,England,347,213
+346,T20/636165.yaml,Australia,England,Melbourne Cricket Ground,,2014-01-31,England,bat,T20,Australia,8,0,20,JR Hazlewood,"['JD Ward', 'P Wilson']",male,England,Australia,348,130
+347,T20/636166.yaml,Australia,England,Stadium Australia,Sydney,2014-02-02,Australia,bat,T20,Australia,0,84,20,GJ Bailey,"['SD Fry', 'P Wilson']",male,Australia,England,349,195
+348,T20/636536.yaml,West Indies,England,"Kensington Oval, Bridgetown",Barbados,2014-03-09,West Indies,bat,T20,West Indies,0,27,20,MN Samuels,"['PJ Nero', 'JS Wilson']",male,West Indies,England,350,170
+349,T20/636537.yaml,West Indies,England,"Kensington Oval, Bridgetown",Barbados,2014-03-11,England,bat,T20,West Indies,5,0,20,K Santokie,"['GO Brathwaite', 'PJ Nero']",male,England,West Indies,351,152
+350,T20/636538.yaml,West Indies,England,"Kensington Oval, Bridgetown",Barbados,2014-03-13,England,bat,T20,England,0,5,20,CJ Jordan,"['GO Brathwaite', 'JS Wilson']",male,England,West Indies,352,165
+351,T20/645645.yaml,West Indies,Pakistan,"Arnos Vale Ground, Kingstown",St Vincent,2013-07-27,West Indies,bat,T20,Pakistan,2,0,20,Shahid Afridi,"['GO Brathwaite', 'PJ Nero']",male,West Indies,Pakistan,353,152
+352,T20/645647.yaml,West Indies,Pakistan,"Arnos Vale Ground, Kingstown",St Vincent,2013-07-28,Pakistan,bat,T20,Pakistan,0,11,20,Umar Akmal,"['GO Brathwaite', 'JS Wilson']",male,Pakistan,West Indies,354,135
+353,T20/647247.yaml,India,Australia,Saurashtra Cricket Association Stadium,Rajkot,2013-10-10,India,field,T20,India,6,0,20,Yuvraj Singh,"['AK Chaudhary', 'C Shamshuddin']",male,Australia,India,355,201
+354,T20/648681.yaml,South Africa,Australia,Kingsmead,Durban,2014-03-12,Australia,field,T20,Australia,5,0,20,BJ Hodge,"['S George', 'AT Holdstock']",male,South Africa,Australia,356,80
+355,T20/648683.yaml,South Africa,Australia,SuperSport Park,Centurion,2014-03-14,Australia,field,T20,Australia,6,0,20,MA Starc,"['JD Cloete', 'S George']",male,South Africa,Australia,357,128
+356,T20/649101.yaml,Pakistan,South Africa,Dubai International Cricket Stadium,,2013-11-13,Pakistan,bat,T20,South Africa,9,0,20,DW Steyn,"['Ahsan Raza', 'Shozab Raza']",male,Pakistan,South Africa,358,98
+357,T20/649103.yaml,Pakistan,South Africa,Dubai International Cricket Stadium,,2013-11-15,South Africa,bat,T20,South Africa,0,6,20,F du Plessis,"['Ahsan Raza', 'Zameer Haider']",male,South Africa,Pakistan,359,150
+358,T20/657631.yaml,Afghanistan,Pakistan,Sharjah Cricket Stadium,,2013-12-08,Afghanistan,bat,T20,Pakistan,6,0,20,Mohammad Hafeez,"['Ahsan Raza', 'Shozab Raza']",male,Afghanistan,Pakistan,360,137
+359,T20/657633.yaml,Pakistan,Sri Lanka,Dubai International Cricket Stadium,,2013-12-11,Pakistan,field,T20,Pakistan,3,0,20,Shahid Afridi,"['Ahsan Raza', 'Shozab Raza']",male,Sri Lanka,Pakistan,361,145
+360,T20/657635.yaml,Pakistan,Sri Lanka,Dubai International Cricket Stadium,,2013-12-13,Pakistan,field,T20,Sri Lanka,0,24,20,MDKJ Perera,"['Ahsan Raza', 'Zameer Haider']",male,Sri Lanka,Pakistan,362,211
+361,T20/659545.yaml,Zimbabwe,Pakistan,Harare Sports Club,,2013-08-23,Zimbabwe,field,T20,Pakistan,0,25,20,Ahmed Shehzad,"['O Chirombe', 'TJ Matibiri']",male,Pakistan,Zimbabwe,363,161
+362,T20/659547.yaml,Zimbabwe,Pakistan,Harare Sports Club,,2013-08-24,Zimbabwe,field,T20,Pakistan,0,19,20,Ahmed Shehzad,"['O Chirombe', 'RB Tiffin']",male,Pakistan,Zimbabwe,364,179
+363,T20/660107.yaml,Afghanistan,Netherlands,Sharjah Cricket Stadium,Sharjah,2013-11-15,Afghanistan,bat,T20,Netherlands,7,0,20,BN Cooper,"['S Ravi', 'M Hawthorne']",male,Afghanistan,Netherlands,365,90
+364,T20/660113.yaml,Canada,Ireland,Sheikh Zayed Stadium,Abu Dhabi,2013-11-16,Canada,field,T20,Ireland,0,2,20,A Bagai,"['MA Gough', 'REJ Martinesz']",male,Ireland,Canada,366,168
+365,T20/660123.yaml,Afghanistan,Scotland,Sharjah Cricket Stadium,,2013-11-16,Afghanistan,bat,T20,Afghanistan,0,17,20,Dawlat Zadran,"['CB Gaffaney', 'AT Holdstock']",male,Afghanistan,Scotland,367,171
+366,T20/660149.yaml,Kenya,Scotland,ICC Academy,Dubai,2013-11-19,Kenya,bat,T20,Kenya,0,92,20,RG Aga,"['AT Holdstock', 'S Ravi']",male,Kenya,Scotland,368,183
+367,T20/660173.yaml,Netherlands,Scotland,ICC Academy,Dubai,2013-11-22,Netherlands,field,T20,Scotland,0,15,20,RML Taylor,"['M Hawthorne', 'S Ravi']",male,Scotland,Netherlands,369,165
+368,T20/660185.yaml,Kenya,Netherlands,ICC Academy,Dubai,2013-11-23,Netherlands,bat,T20,Netherlands,0,29,20,Mudassar Bukhari,"['AT Holdstock', 'Sarika Prasad']",male,Netherlands,Kenya,370,130
+369,T20/660203.yaml,Afghanistan,Kenya,Sharjah Cricket Stadium,,2013-11-24,Afghanistan,bat,T20,Afghanistan,0,34,20,Samiullah Shenwari,"['BB Pradhan', 'Sarika Prasad']",male,Afghanistan,Kenya,371,148
+370,T20/660209.yaml,Canada,Kenya,Sharjah Cricket Stadium,,2013-11-26,Kenya,bat,T20,Kenya,0,21,20,SO Tikolo,"['Sarika Prasad', 'DJ Walker']",male,Kenya,Canada,372,146
+371,T20/660223.yaml,Netherlands,Scotland,Sheikh Zayed Stadium,Abu Dhabi,2013-11-28,Scotland,bat,T20,Netherlands,8,0,20,W Barresi,"['SJ Davis', 'REJ Martinesz']",male,Scotland,Netherlands,373,147
+372,T20/660235.yaml,Afghanistan,Ireland,Sheikh Zayed Stadium,Abu Dhabi,2013-11-30,Ireland,bat,T20,Ireland,0,68,20,DT Johnston,"['MA Gough', 'S Ravi']",male,Ireland,Afghanistan,374,225
+373,T20/661695.yaml,New Zealand,West Indies,Eden Park,Auckland,2014-01-11,New Zealand,bat,T20,New Zealand,0,81,20,L Ronchi,"['CB Gaffaney', 'DJ Walker']",male,New Zealand,West Indies,375,189
+374,T20/661697.yaml,New Zealand,West Indies,Westpac Stadium,Wellington,2014-01-15,West Indies,bat,T20,New Zealand,4,0,20,L Ronchi,"['GAV Baxter', 'CB Gaffaney']",male,West Indies,New Zealand,376,159
+375,T20/662383.yaml,Afghanistan,Kenya,Sharjah Cricket Stadium,,2013-09-30,Afghanistan,bat,T20,Afghanistan,0,106,20,Hamid Hassan,"['RSA Palliyaguruge', 'BB Pradhan']",male,Afghanistan,Kenya,377,162
+376,T20/662387.yaml,Afghanistan,Kenya,Sharjah Cricket Stadium,,2013-10-11,Kenya,bat,T20,Kenya,0,34,20,,"['RSA Palliyaguruge', 'BB Pradhan']",male,Kenya,Afghanistan,378,149
+377,T20/667731.yaml,England,India,Edgbaston,Birmingham,2014-09-07,England,bat,T20,England,0,3,20,EJG Morgan,"['IJ Gould', 'RT Robinson']",male,England,India,379,180
+378,T20/667887.yaml,England,Sri Lanka,Kennington Oval,London,2014-05-20,England,field,T20,Sri Lanka,0,9,20,NLTC Perera,"['RJ Bailey', 'MA Gough']",male,Sri Lanka,England,380,183
+379,T20/668959.yaml,Bangladesh,New Zealand,Shere Bangla National Stadium,Mirpur,2013-11-06,New Zealand,bat,T20,New Zealand,0,15,20,C Munro,"['Anisur Rahman', 'Sharfuddoula']",male,New Zealand,Bangladesh,381,204
+380,T20/668969.yaml,Sri Lanka,New Zealand,Pallekele International Cricket Stadium,,2013-11-21,Sri Lanka,field,T20,Sri Lanka,8,0,20,MDKJ Perera,"['RSA Palliyaguruge', 'RR Wimalasiri']",male,New Zealand,Sri Lanka,382,142
+381,T20/682897.yaml,Bangladesh,Afghanistan,Shere Bangla National Stadium,Mirpur,2014-03-16,Bangladesh,field,T20,Bangladesh,9,0,20,Shakib Al Hasan,"['RK Illingworth', 'NJ Llong']",male,Afghanistan,Bangladesh,383,72
+382,T20/682899.yaml,Hong Kong,Nepal,Zahur Ahmed Chowdhury Stadium,Chittagong,2014-03-16,Hong Kong,field,T20,Nepal,0,80,20,SP Gauchan,"['Aleem Dar', 'RJ Tucker']",male,Nepal,Hong Kong,384,149
+383,T20/682901.yaml,Ireland,Zimbabwe,Sylhet Stadium,,2014-03-17,Ireland,field,T20,Ireland,3,0,20,PR Stirling,"['SJ Davis', 'M Erasmus']",male,Zimbabwe,Ireland,385,163
+384,T20/682903.yaml,Netherlands,United Arab Emirates,Sylhet Stadium,,2014-03-17,United Arab Emirates,bat,T20,Netherlands,6,0,20,TLW Cooper,"['BF Bowden', 'IJ Gould']",male,United Arab Emirates,Netherlands,386,151
+385,T20/682905.yaml,Afghanistan,Hong Kong,Zahur Ahmed Chowdhury Stadium,Chittagong,2014-03-18,Hong Kong,bat,T20,Afghanistan,7,0,20,Mohammad Shahzad,"['S Ravi', 'PR Reiffel']",male,Hong Kong,Afghanistan,387,153
+386,T20/682907.yaml,Bangladesh,Nepal,Zahur Ahmed Chowdhury Stadium,Chittagong,2014-03-18,Bangladesh,field,T20,Bangladesh,8,0,20,Al-Amin Hossain,"['Aleem Dar', 'RJ Tucker']",male,Nepal,Bangladesh,388,126
+387,T20/682909.yaml,Netherlands,Zimbabwe,Sylhet Stadium,,2014-03-19,Netherlands,bat,T20,Zimbabwe,5,0,20,BRM Taylor,"['SJ Davis', 'BNJ Oxenford']",male,Netherlands,Zimbabwe,389,140
+388,T20/682911.yaml,Ireland,United Arab Emirates,Sylhet Stadium,,2014-03-19,Ireland,field,T20,D/L,0,21,20,EC Joyce,"['M Erasmus', 'IJ Gould']",male,United Arab Emirates,Ireland,390,123
+389,T20/682913.yaml,Afghanistan,Nepal,Zahur Ahmed Chowdhury Stadium,Chittagong,2014-03-20,Afghanistan,field,T20,Nepal,0,9,20,JK Mukhiya,"['Aleem Dar', 'S Ravi']",male,Nepal,Afghanistan,391,141
+390,T20/682915.yaml,Bangladesh,Hong Kong,Zahur Ahmed Chowdhury Stadium,Chittagong,2014-03-20,Hong Kong,field,T20,Hong Kong,2,0,20,Nadeem Ahmed,"['PR Reiffel', 'RJ Tucker']",male,Bangladesh,Hong Kong,392,108
+391,T20/682917.yaml,United Arab Emirates,Zimbabwe,Sylhet Stadium,,2014-03-21,Zimbabwe,field,T20,Zimbabwe,5,0,20,E Chigumbura,"['BF Bowden', 'BNJ Oxenford']",male,United Arab Emirates,Zimbabwe,393,116
+392,T20/682919.yaml,Ireland,Netherlands,Sylhet Stadium,,2014-03-21,Netherlands,field,T20,Netherlands,6,0,20,SJ Myburgh,"['SJ Davis', 'IJ Gould']",male,Ireland,Netherlands,394,189
+393,T20/682921.yaml,India,Pakistan,Shere Bangla National Stadium,Mirpur,2014-03-21,India,field,T20,India,7,0,20,A Mishra,"['HDPK Dharmasena', 'RA Kettleborough']",male,Pakistan,India,395,130
+394,T20/682923.yaml,South Africa,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chittagong,2014-03-22,Sri Lanka,bat,T20,Sri Lanka,0,5,20,MDKJ Perera,"['S Ravi', 'RJ Tucker']",male,Sri Lanka,South Africa,396,165
+395,T20/682925.yaml,England,New Zealand,Zahur Ahmed Chowdhury Stadium,Chittagong,2014-03-22,New Zealand,field,T20,D/L,0,9,20,CJ Anderson,"['Aleem Dar', 'PR Reiffel']",male,England,New Zealand,397,172
+396,T20/682927.yaml,Australia,Pakistan,Shere Bangla National Stadium,Mirpur,2014-03-23,Australia,field,T20,Pakistan,0,16,20,Umar Akmal,"['RA Kettleborough', 'NJ Llong']",male,Pakistan,Australia,398,191
+397,T20/682929.yaml,India,West Indies,Shere Bangla National Stadium,Mirpur,2014-03-23,India,field,T20,India,7,0,20,A Mishra,"['HDPK Dharmasena', 'RK Illingworth']",male,West Indies,India,399,129
+398,T20/682931.yaml,New Zealand,South Africa,Zahur Ahmed Chowdhury Stadium,Chittagong,2014-03-24,New Zealand,field,T20,South Africa,0,2,20,JP Duminy,"['Aleem Dar', 'S Ravi']",male,South Africa,New Zealand,400,170
+399,T20/682933.yaml,Netherlands,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chittagong,2014-03-24,Sri Lanka,field,T20,Sri Lanka,9,0,20,AD Mathews,"['PR Reiffel', 'RJ Tucker']",male,Netherlands,Sri Lanka,401,39
+400,T20/682935.yaml,Bangladesh,West Indies,Shere Bangla National Stadium,Mirpur,2014-03-25,Bangladesh,field,T20,West Indies,0,73,20,DR Smith,"['RA Kettleborough', 'NJ Llong']",male,West Indies,Bangladesh,402,171
+401,T20/682937.yaml,Netherlands,South Africa,Zahur Ahmed Chowdhury Stadium,Chittagong,2014-03-27,Netherlands,field,T20,South Africa,0,6,20,Imran Tahir,"['SJ Davis', 'BNJ Oxenford']",male,South Africa,Netherlands,403,145
+402,T20/682939.yaml,England,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chittagong,2014-03-27,England,field,T20,England,6,0,20,AD Hales,"['Aleem Dar', 'RJ Tucker']",male,Sri Lanka,England,404,189
+403,T20/682941.yaml,Australia,West Indies,Shere Bangla National Stadium,Mirpur,2014-03-28,Australia,bat,T20,West Indies,6,0,20,DJG Sammy,"['M Erasmus', 'IJ Gould']",male,Australia,West Indies,405,178
+404,T20/682943.yaml,Bangladesh,India,Shere Bangla National Stadium,Mirpur,2014-03-28,India,field,T20,India,8,0,20,R Ashwin,"['HDPK Dharmasena', 'RA Kettleborough']",male,Bangladesh,India,406,138
+405,T20/682945.yaml,Netherlands,New Zealand,Zahur Ahmed Chowdhury Stadium,Chittagong,2014-03-29,New Zealand,field,T20,New Zealand,6,0,20,BB McCullum,"['Aleem Dar', 'BNJ Oxenford']",male,Netherlands,New Zealand,407,151
+406,T20/682947.yaml,England,South Africa,Zahur Ahmed Chowdhury Stadium,Chittagong,2014-03-29,England,field,T20,South Africa,0,3,20,AB de Villiers,"['SJ Davis', 'RJ Tucker']",male,South Africa,England,408,196
+407,T20/682949.yaml,Bangladesh,Pakistan,Shere Bangla National Stadium,Mirpur,2014-03-30,Pakistan,bat,T20,Pakistan,0,50,20,Ahmed Shehzad,"['IJ Gould', 'RA Kettleborough']",male,Pakistan,Bangladesh,409,190
+408,T20/682951.yaml,Australia,India,Shere Bangla National Stadium,Mirpur,2014-03-30,Australia,field,T20,India,0,73,20,R Ashwin,"['HDPK Dharmasena', 'M Erasmus']",male,India,Australia,410,159
+409,T20/682953.yaml,England,Netherlands,Zahur Ahmed Chowdhury Stadium,Chittagong,2014-03-31,England,field,T20,Netherlands,0,45,20,Mudassar Bukhari,"['SJ Davis', 'BNJ Oxenford']",male,Netherlands,England,411,133
+410,T20/682955.yaml,New Zealand,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chittagong,2014-03-31,New Zealand,field,T20,Sri Lanka,0,59,20,HMRKB Herath,"['Aleem Dar', 'RJ Tucker']",male,Sri Lanka,New Zealand,412,119
+411,T20/682957.yaml,Bangladesh,Australia,Shere Bangla National Stadium,Mirpur,2014-04-01,Bangladesh,bat,T20,Australia,7,0,20,AJ Finch,"['HDPK Dharmasena', 'M Erasmus']",male,Bangladesh,Australia,413,153
+412,T20/682959.yaml,Pakistan,West Indies,Shere Bangla National Stadium,Mirpur,2014-04-01,West Indies,bat,T20,West Indies,0,84,20,DJ Bravo,"['IJ Gould', 'RA Kettleborough']",male,West Indies,Pakistan,414,166
+413,T20/682961.yaml,Sri Lanka,West Indies,Shere Bangla National Stadium,Mirpur,2014-04-03,Sri Lanka,bat,T20,D/L,0,27,20,AD Mathews,"['RA Kettleborough', 'RJ Tucker']",male,Sri Lanka,West Indies,415,160
+414,T20/682963.yaml,India,South Africa,Shere Bangla National Stadium,Mirpur,2014-04-04,South Africa,bat,T20,India,6,0,20,V Kohli,"['HDPK Dharmasena', 'IJ Gould']",male,South Africa,India,416,172
+415,T20/682965.yaml,India,Sri Lanka,Shere Bangla National Stadium,Mirpur,2014-04-06,Sri Lanka,field,T20,Sri Lanka,6,0,20,KC Sangakkara,"['IJ Gould', 'RA Kettleborough']",male,India,Sri Lanka,417,130
+416,T20/685727.yaml,South Africa,Pakistan,New Wanderers Stadium,Johannesburg,2013-11-20,Pakistan,field,T20,D/L,0,4,20,Q de Kock,"['JD Cloete', 'S George']",male,South Africa,Pakistan,418,153
+417,T20/685729.yaml,South Africa,Pakistan,Newlands,Cape Town,2013-11-22,Pakistan,bat,T20,Pakistan,0,6,20,Mohammad Hafeez,"['JD Cloete', 'S George']",male,Pakistan,South Africa,419,176
+418,T20/690351.yaml,Bangladesh,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chittagong,2014-02-12,Bangladesh,field,T20,Sri Lanka,0,2,20,MDKJ Perera,"['Anisur Rahman', 'Sharfuddoula']",male,Sri Lanka,Bangladesh,420,168
+419,T20/690353.yaml,Bangladesh,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chittagong,2014-02-14,Bangladesh,bat,T20,Sri Lanka,3,0,20,NLTC Perera,"['Anisur Rahman', 'Sharfuddoula']",male,Bangladesh,Sri Lanka,421,120
+420,T20/702141.yaml,West Indies,Ireland,"Sabina Park, Kingston",Jamaica,2014-02-19,West Indies,bat,T20,Ireland,6,0,20,EC Joyce,"['GO Brathwaite', 'JS Wilson']",male,West Indies,Ireland,422,116
+421,T20/702143.yaml,West Indies,Ireland,"Sabina Park, Kingston",Jamaica,2014-02-21,Ireland,field,T20,West Indies,0,11,20,DJG Sammy,"['N Duguid', 'JS Wilson']",male,West Indies,Ireland,423,96
+422,T20/722335.yaml,South Africa,West Indies,Newlands,Cape Town,2015-01-09,South Africa,bat,T20,West Indies,4,0,20,CH Gayle,"['JD Cloete', 'S George']",male,South Africa,West Indies,424,165
+423,T20/722337.yaml,South Africa,West Indies,New Wanderers Stadium,Johannesburg,2015-01-11,West Indies,field,T20,West Indies,4,0,20,CH Gayle,"['S George', 'AT Holdstock']",male,South Africa,West Indies,425,231
+424,T20/727917.yaml,Australia,Pakistan,Dubai International Cricket Stadium,,2014-10-05,Pakistan,bat,T20,Australia,6,0,20,GJ Maxwell,"['Ahsan Raza', 'Shozab Raza']",male,Pakistan,Australia,426,96
+425,T20/730283.yaml,West Indies,New Zealand,"Windsor Park, Roseau",Dominica,2014-07-05,New Zealand,field,T20,D/L,0,12,20,ADS Fletcher,"['PJ Nero', 'JS Wilson']",male,West Indies,New Zealand,427,132
+426,T20/730285.yaml,West Indies,New Zealand,"Windsor Park, Roseau",Dominica,2014-07-06,New Zealand,field,T20,West Indies,0,39,20,ADS Fletcher,"['GO Brathwaite', 'JS Wilson']",male,West Indies,New Zealand,428,165
+427,T20/736063.yaml,South Africa,West Indies,Kingsmead,Durban,2015-01-14,West Indies,field,T20,South Africa,0,69,20,MN van Wyk,"['JD Cloete', 'S George']",male,South Africa,West Indies,430,226
+428,T20/742617.yaml,New Zealand,Pakistan,Dubai International Cricket Stadium,,2014-12-04,Pakistan,field,T20,Pakistan,7,0,20,Sarfraz Ahmed,"['Ahmed Shahab', 'Ahsan Raza']",male,New Zealand,Pakistan,431,135
+429,T20/743953.yaml,England,New Zealand,Old Trafford,Manchester,2015-06-23,England,bat,T20,England,0,56,20,JE Root,"['RJ Bailey', 'RT Robinson']",male,England,New Zealand,432,191
+430,T20/743975.yaml,England,Australia,Sophia Gardens,Cardiff,2015-08-31,Australia,field,T20,England,0,5,20,MM Ali,"['MA Gough', 'RT Robinson']",male,England,Australia,433,182
+431,T20/754039.yaml,New Zealand,Pakistan,Dubai International Cricket Stadium,,2014-12-05,Pakistan,field,T20,New Zealand,0,17,20,AP Devcich,"['Aleem Dar', 'Shozab Raza']",male,New Zealand,Pakistan,434,144
+432,T20/754717.yaml,Australia,South Africa,Adelaide Oval,,2014-11-05,Australia,bat,T20,South Africa,7,0,20,RR Rossouw,"['SD Fry', 'JD Ward']",male,Australia,South Africa,435,144
+433,T20/754719.yaml,Australia,South Africa,Melbourne Cricket Ground,,2014-11-07,South Africa,bat,T20,Australia,7,0,20,CJ Boyce,"['SD Fry', 'MD Martell']",male,South Africa,Australia,436,101
+434,T20/754721.yaml,Australia,South Africa,Stadium Australia,Sydney,2014-11-09,Australia,field,T20,Australia,2,0,20,CL White,"['MD Martell', 'JD Ward']",male,South Africa,Australia,437,145
+435,T20/800479.yaml,South Africa,England,Newlands,Cape Town,2016-02-19,South Africa,field,T20,South Africa,3,0,20,Imran Tahir,"['JD Cloete', 'S George']",male,England,South Africa,438,134
+436,T20/800481.yaml,South Africa,England,New Wanderers Stadium,Johannesburg,2016-02-21,South Africa,field,T20,South Africa,9,0,20,AB de Villiers,"['JD Cloete', 'AT Holdstock']",male,England,South Africa,439,171
+437,T20/802327.yaml,Hong Kong,Nepal,P Sara Oval,Colombo,2014-11-24,Hong Kong,field,T20,Hong Kong,2,0,20,Aizaz Khan,"['RSA Palliyaguruge', 'RR Wimalasiri']",male,Nepal,Hong Kong,440,72
+438,T20/817203.yaml,Bangladesh,South Africa,Shere Bangla National Stadium,Mirpur,2015-07-05,South Africa,bat,T20,South Africa,0,52,20,F du Plessis,"['Enamul Haque', 'Sharfuddoula']",male,South Africa,Bangladesh,441,148
+439,T20/817205.yaml,Bangladesh,South Africa,Shere Bangla National Stadium,Mirpur,2015-07-07,South Africa,bat,T20,South Africa,0,31,20,E Leie,"['Anisur Rahman', 'Enamul Haque']",male,South Africa,Bangladesh,442,169
+440,T20/848839.yaml,South Africa,New Zealand,Kingsmead,Durban,2015-08-14,South Africa,field,T20,South Africa,6,0,20,AM Phangiso,"['JD Cloete', 'S George']",male,New Zealand,South Africa,443,151
+441,T20/848841.yaml,South Africa,New Zealand,SuperSport Park,Centurion,2015-08-16,New Zealand,bat,T20,New Zealand,0,32,20,MJ Guptill,"['JD Cloete', 'S George']",male,New Zealand,South Africa,444,177
+442,T20/858491.yaml,Bangladesh,Pakistan,Shere Bangla National Stadium,Mirpur,2015-04-24,Pakistan,bat,T20,Bangladesh,7,0,20,Sabbir Rahman,"['Anisur Rahman', 'Sharfuddoula']",male,Pakistan,Bangladesh,445,141
+443,T20/860279.yaml,Sri Lanka,Pakistan,R Premadasa Stadium,Colombo,2015-07-30,Pakistan,bat,T20,Pakistan,0,29,20,Sohail Tanvir,"['REJ Martinesz', 'RSA Palliyaguruge']",male,Pakistan,Sri Lanka,446,175
+444,T20/860281.yaml,Sri Lanka,Pakistan,R Premadasa Stadium,Colombo,2015-08-01,Sri Lanka,bat,T20,Pakistan,1,0,20,Anwar Ali,"['RSA Palliyaguruge', 'RR Wimalasiri']",male,Sri Lanka,Pakistan,447,172
+445,T20/868723.yaml,Pakistan,Zimbabwe,Gaddafi Stadium,Lahore,2015-05-22,Zimbabwe,bat,T20,Pakistan,5,0,20,Mukhtar Ahmed,"['Ahsan Raza', 'Shozab Raza']",male,Zimbabwe,Pakistan,448,172
+446,T20/868725.yaml,Pakistan,Zimbabwe,Gaddafi Stadium,Lahore,2015-05-24,Zimbabwe,bat,T20,Pakistan,2,0,20,Mukhtar Ahmed,"['Ahmed Shahab', 'Ahsan Raza']",male,Zimbabwe,Pakistan,449,175
+447,T20/875457.yaml,Scotland,United Arab Emirates,"Grange Cricket Club Ground, Raeburn Place",Edinburgh,2015-07-09,Scotland,field,T20,Scotland,9,0,20,HG Munsey,"['Ahsan Raza', 'S George']",male,United Arab Emirates,Scotland,450,109
+448,T20/875459.yaml,Afghanistan,Netherlands,"Grange Cricket Club Ground, Raeburn Place",Edinburgh,2015-07-09,Netherlands,field,T20,Afghanistan,0,32,20,Sharafuddin Ashraf,"['GO Brathwaite', 'D Odhiambo']",male,Afghanistan,Netherlands,451,162
+449,T20/875467.yaml,Afghanistan,United Arab Emirates,"Grange Cricket Club Ground, Raeburn Place",Edinburgh,2015-07-10,United Arab Emirates,bat,T20,Afghanistan,8,0,20,Mohammad Shahzad,"['NJ Llong', 'IN Ramage']",male,United Arab Emirates,Afghanistan,452,164
+450,T20/875471.yaml,Scotland,Netherlands,"Grange Cricket Club Ground, Raeburn Place",Edinburgh,2015-07-11,Netherlands,bat,T20,Netherlands,0,32,20,AC Evans,"['VA Kulkarni', 'D Odhiambo']",male,Netherlands,Scotland,453,191
+451,T20/875481.yaml,Netherlands,United Arab Emirates,"Grange Cricket Club Ground, Raeburn Place",Edinburgh,2015-07-12,Netherlands,field,T20,Netherlands,7,0,20,RE van der Merwe,"['VA Kulkarni', 'NJ Llong']",male,United Arab Emirates,Netherlands,454,119
+452,T20/875485.yaml,Scotland,Afghanistan,"Grange Cricket Club Ground, Raeburn Place",Edinburgh,2015-07-12,Afghanistan,bat,T20,Afghanistan,0,37,20,Mohammad Shahzad,"['Ahsan Raza', 'GO Brathwaite']",male,Afghanistan,Scotland,455,210
+453,T20/875491.yaml,Nepal,Ireland,"Civil Service Cricket Club, Stormont",Belfast,2015-07-13,Ireland,field,T20,Ireland,8,0,20,KJ O'Brien,"['AK Chaudhary', 'JD Cloete']",male,Nepal,Ireland,456,53
+454,T20/875501.yaml,Ireland,Papua New Guinea,"Civil Service Cricket Club, Stormont",Belfast,2015-07-15,Ireland,bat,T20,Papua New Guinea,2,0,20,N Vanua,"['AK Chaudhary', 'RSA Palliyaguruge']",male,Ireland,Papua New Guinea,457,123
+455,T20/875507.yaml,Hong Kong,Nepal,"Civil Service Cricket Club, Stormont",Belfast,2015-07-15,Hong Kong,field,T20,Hong Kong,5,0,20,Haseeb Amjad,"['JD Cloete', 'RSA Palliyaguruge']",male,Nepal,Hong Kong,458,109
+456,T20/875513.yaml,Nepal,Papua New Guinea,"The Village, Malahide",Dublin,2015-07-17,Papua New Guinea,field,T20,Papua New Guinea,8,0,20,A Vala,"['JD Cloete', 'RT Robinson']",male,Nepal,Papua New Guinea,459,93
+457,T20/875521.yaml,Ireland,Hong Kong,"The Village, Malahide",Dublin,2015-07-17,Ireland,field,T20,Hong Kong,0,5,20,Irfan Ahmed,"['RSA Palliyaguruge', 'P Wilson']",male,Hong Kong,Ireland,460,129
+458,T20/875541.yaml,Afghanistan,Hong Kong,"The Village, Malahide",Dublin,2015-07-21,Afghanistan,bat,T20,Hong Kong,5,0,20,Nawroz Mangal,"['S George', 'NJ Llong']",male,Afghanistan,Hong Kong,461,161
+459,T20/875545.yaml,Afghanistan,Papua New Guinea,"The Village, Malahide",Dublin,2015-07-23,Papua New Guinea,bat,T20,Afghanistan,6,0,20,Nawroz Mangal,"['GO Brathwaite', 'AK Chaudhary']",male,Papua New Guinea,Afghanistan,462,127
+460,T20/875549.yaml,Hong Kong,Scotland,"The Village, Malahide",Dublin,2015-07-25,Scotland,field,T20,Scotland,5,0,20,RML Taylor,"['S George', 'RSA Palliyaguruge']",male,Hong Kong,Scotland,463,116
+461,T20/875551.yaml,Afghanistan,Oman,Clontarf Cricket Club Ground,Dublin,2015-07-25,Afghanistan,field,T20,Afghanistan,5,0,20,Najibullah Zadran,"['GO Brathwaite', 'AK Chaudhary']",male,Oman,Afghanistan,464,127
+462,T20/875553.yaml,Ireland,Netherlands,"The Village, Malahide",Dublin,2015-07-25,Netherlands,field,T20,Netherlands,5,0,20,Mudassar Bukhari,"['JD Cloete', 'VA Kulkarni']",male,Ireland,Netherlands,465,128
+463,T20/883343.yaml,Netherlands,Nepal,VRA Ground,Amstelveen,2015-07-01,Nepal,field,T20,Netherlands,0,103,20,,"['Sarika Prasad', 'C Shamshuddin']",male,Netherlands,Nepal,466,172
+464,T20/883345.yaml,Netherlands,Nepal,Hazelaarweg,Rotterdam,2015-07-02,Netherlands,bat,T20,Netherlands,0,18,20,,"['Sarika Prasad', 'C Shamshuddin']",male,Netherlands,Nepal,467,149
+465,T20/884347.yaml,South Africa,Australia,Kingsmead,Durban,2016-03-04,Australia,bat,T20,South Africa,3,0,20,DA Miller,"['S George', 'AT Holdstock']",male,Australia,South Africa,468,157
+466,T20/884349.yaml,South Africa,Australia,New Wanderers Stadium,Johannesburg,2016-03-06,Australia,field,T20,Australia,5,0,20,DA Warner,"['S George', 'AT Holdstock']",male,South Africa,Australia,469,204
+467,T20/884351.yaml,South Africa,Australia,Newlands,Cape Town,2016-03-09,South Africa,bat,T20,Australia,6,0,20,HM Amla,"['S George', 'AT Holdstock']",male,South Africa,Australia,470,178
+468,T20/885969.yaml,Zimbabwe,India,Harare Sports Club,,2015-07-17,India,bat,T20,India,0,54,20,AR Patel,"['TJ Matibiri', 'RB Tiffin']",male,India,Zimbabwe,471,178
+469,T20/885971.yaml,Zimbabwe,India,Harare Sports Club,,2015-07-19,Zimbabwe,bat,T20,Zimbabwe,0,10,20,CJ Chibhabha,"['L Rusere', 'RB Tiffin']",male,Zimbabwe,India,472,145
+470,T20/889463.yaml,Ireland,Scotland,"Bready Cricket Club, Magheramason",Londonderry,2015-06-20,Scotland,field,T20,Scotland,6,0,20,,"['M Hawthorne', 'NJ Llong']",male,Ireland,Scotland,473,166
+471,T20/894293.yaml,Zimbabwe,New Zealand,Harare Sports Club,,2015-08-09,Zimbabwe,field,T20,New Zealand,0,80,50,GH Worker,"['L Rusere', 'RB Tiffin']",male,New Zealand,Zimbabwe,474,198
+472,T20/895817.yaml,Australia,India,Adelaide Oval,,2016-01-26,Australia,field,T20,India,0,37,20,V Kohli,"['SD Fry', 'JD Ward']",male,India,Australia,475,188
+473,T20/895819.yaml,Australia,India,Melbourne Cricket Ground,,2016-01-29,Australia,field,T20,India,0,27,20,V Kohli,"['SD Fry', 'P Wilson']",male,India,Australia,476,184
+474,T20/895821.yaml,Australia,India,Sydney Cricket Ground,,2016-01-31,Australia,bat,T20,India,7,0,20,SR Watson,"['SD Fry', 'JD Ward']",male,Australia,India,477,197
+475,T20/902649.yaml,England,Pakistan,Dubai International Cricket Stadium,,2015-11-26,England,bat,T20,England,0,14,20,SW Billings,"['Ahsan Raza', 'Shozab Raza']",male,England,Pakistan,478,160
+476,T20/902651.yaml,England,Pakistan,Dubai International Cricket Stadium,,2015-11-27,England,bat,T20,England,0,3,20,LE Plunkett,"['Ahmed Shahab', 'Shozab Raza']",male,England,Pakistan,479,172
+477,T20/902653.yaml,England,Pakistan,Sharjah Cricket Stadium,,2015-11-30,England,bat,T20,tie,0,0,20,Shoaib Malik,"['Ahmed Shahab', 'Ahsan Raza']",male,England,Pakistan,480,154
+478,T20/903587.yaml,India,South Africa,Himachal Pradesh Cricket Association Stadium,Dharmasala,2015-10-02,South Africa,field,T20,South Africa,7,0,20,JP Duminy,"['VA Kulkarni', 'C Shamshuddin']",male,India,South Africa,481,199
+479,T20/903589.yaml,India,South Africa,Barabati Stadium,Cuttack,2015-10-05,South Africa,field,T20,South Africa,6,0,20,JA Morkel,"['CK Nandan', 'C Shamshuddin']",male,India,South Africa,482,92
+480,T20/913633.yaml,England,Sri Lanka,The Rose Bowl,Southampton,2016-07-05,Sri Lanka,bat,T20,England,8,0,20,JC Buttler,"['RJ Bailey', 'MA Gough']",male,Sri Lanka,England,483,140
+481,T20/913663.yaml,England,Pakistan,Old Trafford,Manchester,2016-09-07,England,bat,T20,Pakistan,9,0,20,Wahab Riaz,"['MA Gough', 'RT Robinson']",male,England,Pakistan,484,135
+482,T20/914217.yaml,New Zealand,Sri Lanka,Bay Oval,Mount Maunganui,2016-01-07,Sri Lanka,field,T20,New Zealand,0,3,20,TA Boult,"['PD Jones', 'DJ Walker']",male,New Zealand,Sri Lanka,485,182
+483,T20/914219.yaml,New Zealand,Sri Lanka,Eden Park,Auckland,2016-01-10,New Zealand,field,T20,New Zealand,9,0,20,C Munro,"['BF Bowden', 'PD Jones']",male,Sri Lanka,New Zealand,486,142
+484,T20/914221.yaml,New Zealand,Pakistan,Eden Park,Auckland,2016-01-15,New Zealand,field,T20,Pakistan,0,16,20,Shahid Afridi,"['PD Jones', 'DJ Walker']",male,Pakistan,New Zealand,487,171
+485,T20/914223.yaml,New Zealand,Pakistan,Seddon Park,Hamilton,2016-01-17,Pakistan,bat,T20,New Zealand,10,0,20,MJ Guptill,"['BF Bowden', 'DJ Walker']",male,Pakistan,New Zealand,488,168
+486,T20/914225.yaml,New Zealand,Pakistan,Westpac Stadium,Wellington,2016-01-22,Pakistan,field,T20,New Zealand,0,95,20,CJ Anderson,"['BF Bowden', 'DJ Walker']",male,New Zealand,Pakistan,489,196
+487,T20/915783.yaml,Sri Lanka,West Indies,Pallekele International Cricket Stadium,,2015-11-09,West Indies,field,T20,Sri Lanka,0,30,20,SMSM Senanayake,"['REJ Martinesz', 'RSA Palliyaguruge']",male,Sri Lanka,West Indies,490,215
+488,T20/915785.yaml,Sri Lanka,West Indies,R Premadasa Stadium,Colombo,2015-11-11,West Indies,bat,T20,West Indies,0,23,20,DJ Bravo,"['REJ Martinesz', 'RR Wimalasiri']",male,West Indies,Sri Lanka,491,162
+489,T20/919603.yaml,Zimbabwe,Pakistan,Harare Sports Club,,2015-09-27,Pakistan,bat,T20,Pakistan,0,13,20,Imad Wasim,"['TJ Matibiri', 'RB Tiffin']",male,Pakistan,Zimbabwe,492,136
+490,T20/919605.yaml,Zimbabwe,Pakistan,Harare Sports Club,,2015-09-29,Pakistan,bat,T20,Pakistan,0,15,20,Umar Akmal,"['L Rusere', 'RB Tiffin']",male,Pakistan,Zimbabwe,493,136
+491,T20/924637.yaml,Zimbabwe,Afghanistan,Queens Sports Club,Bulawayo,2015-10-26,Zimbabwe,bat,T20,Afghanistan,6,0,20,Dawlat Zadran,"['TJ Matibiri', 'RB Tiffin']",male,Zimbabwe,Afghanistan,494,153
+492,T20/924639.yaml,Zimbabwe,Afghanistan,Queens Sports Club,Bulawayo,2015-10-28,Zimbabwe,bat,T20,Afghanistan,5,0,20,Gulbadin Naib,"['L Rusere', 'RB Tiffin']",male,Zimbabwe,Afghanistan,495,190
+493,T20/930573.yaml,United Arab Emirates,Oman,Sheikh Zayed Stadium,Abu Dhabi,2015-11-22,United Arab Emirates,field,T20,United Arab Emirates,7,0,20,,"['VA Kulkarni', 'Sarika Prasad']",male,Oman,United Arab Emirates,496,133
+494,T20/930575.yaml,Hong Kong,Oman,Sheikh Zayed Stadium,Abu Dhabi,2015-11-21,Oman,field,T20,Oman,6,0,20,,"['VA Kulkarni', 'Sarika Prasad']",male,Hong Kong,Oman,497,106
+495,T20/930577.yaml,Hong Kong,Oman,Sheikh Zayed Stadium,Abu Dhabi,2015-11-25,Hong Kong,field,T20,Oman,0,4,20,,"['VA Kulkarni', 'Sarika Prasad']",male,Oman,Hong Kong,498,131
+496,T20/930579.yaml,Hong Kong,Oman,Sheikh Zayed Stadium,Abu Dhabi,2015-11-26,Hong Kong,field,T20,Hong Kong,8,0,20,,"['BB Pradhan', 'RR Wimalasiri']",male,Oman,Hong Kong,499,149
+497,T20/930585.yaml,Afghanistan,Oman,Sheikh Zayed Stadium,Abu Dhabi,2015-11-30,Oman,field,T20,Afghanistan,0,12,20,,"['BB Pradhan', 'RR Wimalasiri']",male,Afghanistan,Oman,500,160
+498,T20/931396.yaml,Bangladesh,Zimbabwe,Shere Bangla National Stadium,Mirpur,2015-11-13,Bangladesh,field,T20,Bangladesh,4,0,20,MN Waller,"['Anisur Rahman', 'Enamul Haque']",male,Zimbabwe,Bangladesh,501,131
+499,T20/931398.yaml,Bangladesh,Zimbabwe,Shere Bangla National Stadium,Mirpur,2015-11-15,Bangladesh,bat,T20,Zimbabwe,3,0,20,N Madziva,"['Anisur Rahman', 'Sharfuddoula']",male,Bangladesh,Zimbabwe,502,135
+500,T20/936153.yaml,South Africa,Sri Lanka,SuperSport Park,Centurion,2017-01-20,Sri Lanka,field,T20,South Africa,0,19,20,L Ngidi,"['S George', 'AT Holdstock']",male,South Africa,Sri Lanka,503,126
+501,T20/936155.yaml,South Africa,Sri Lanka,New Wanderers Stadium,Johannesburg,2017-01-22,South Africa,bat,T20,Sri Lanka,3,0,20,AD Mathews,"['AT Holdstock', 'BP Jele']",male,South Africa,Sri Lanka,504,113
+502,T20/936157.yaml,South Africa,Sri Lanka,Newlands,Cape Town,2017-01-25,South Africa,bat,T20,Sri Lanka,5,0,20,N Dickwella,"['S George', 'BP Jele']",male,South Africa,Sri Lanka,505,169
+503,T20/951305.yaml,Hong Kong,Zimbabwe,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2016-03-08,Hong Kong,field,T20,Zimbabwe,0,14,20,V Sibanda,"['Aleem Dar', 'IJ Gould']",male,Zimbabwe,Hong Kong,506,158
+504,T20/951307.yaml,Afghanistan,Scotland,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2016-03-08,Afghanistan,bat,T20,Afghanistan,0,14,20,Mohammad Shahzad,"['M Erasmus', 'RK Illingworth']",male,Afghanistan,Scotland,507,170
+505,T20/951309.yaml,Bangladesh,Netherlands,Himachal Pradesh Cricket Association Stadium,Dharamsala,2016-03-09,Netherlands,field,T20,Bangladesh,0,8,20,Tamim Iqbal,"['S Ravi', 'RJ Tucker']",male,Bangladesh,Netherlands,508,153
+506,T20/951311.yaml,Ireland,Oman,Himachal Pradesh Cricket Association Stadium,Dharamsala,2016-03-09,Ireland,bat,T20,Oman,2,0,20,Amir Ali,"['CB Gaffaney', 'NJ Llong']",male,Ireland,Oman,509,154
+507,T20/951313.yaml,Scotland,Zimbabwe,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2016-03-10,Zimbabwe,bat,T20,Zimbabwe,0,11,20,WP Masakadza,"['Aleem Dar', 'M Erasmus']",male,Zimbabwe,Scotland,510,147
+508,T20/951315.yaml,Afghanistan,Hong Kong,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2016-03-10,Hong Kong,bat,T20,Afghanistan,6,0,20,Mohammad Nabi,"['IJ Gould', 'RK Illingworth']",male,Hong Kong,Afghanistan,511,116
+509,T20/951321.yaml,Afghanistan,Zimbabwe,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2016-03-12,Afghanistan,bat,T20,Afghanistan,0,59,20,Mohammad Nabi,"['Aleem Dar', 'RK Illingworth']",male,Afghanistan,Zimbabwe,513,280
+510,T20/951323.yaml,Hong Kong,Scotland,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2016-03-12,Hong Kong,bat,T20,D/L,8,0,20,MW Machan,"['M Erasmus', 'IJ Gould']",male,Hong Kong,Scotland,514,127
+511,T20/951325.yaml,Ireland,Netherlands,Himachal Pradesh Cricket Association Stadium,Dharamsala,2016-03-13,Ireland,field,T20,Netherlands,0,12,20,PA van Meekeren,"['NJ Llong', 'S Ravi']",male,Netherlands,Ireland,515,59
+512,T20/951327.yaml,Bangladesh,Oman,Himachal Pradesh Cricket Association Stadium,Dharamsala,2016-03-13,Oman,field,T20,D/L,0,54,20,Tamim Iqbal,"['CB Gaffaney', 'RJ Tucker']",male,Bangladesh,Oman,516,180
+513,T20/951329.yaml,India,New Zealand,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2016-03-15,New Zealand,bat,T20,New Zealand,0,47,20,MJ Santner,"['HDPK Dharmasena', 'RK Illingworth']",male,New Zealand,India,517,126
+514,T20/951331.yaml,England,West Indies,Wankhede Stadium,Mumbai,2016-03-16,West Indies,field,T20,West Indies,6,0,20,CH Gayle,"['CB Gaffaney', 'RJ Tucker']",male,England,West Indies,518,182
+515,T20/951333.yaml,Bangladesh,Pakistan,Eden Gardens,Kolkata,2016-03-16,Pakistan,bat,T20,Pakistan,0,55,20,Shahid Afridi,"['IJ Gould', 'RA Kettleborough']",male,Pakistan,Bangladesh,519,201
+516,T20/951335.yaml,Afghanistan,Sri Lanka,Eden Gardens,Kolkata,2016-03-17,Afghanistan,bat,T20,Sri Lanka,6,0,20,TM Dilshan,"['BNJ Oxenford', 'JS Wilson']",male,Afghanistan,Sri Lanka,520,153
+517,T20/951337.yaml,Australia,New Zealand,Himachal Pradesh Cricket Association Stadium,Dharamsala,2016-03-18,New Zealand,bat,T20,New Zealand,0,8,20,MJ McClenaghan,"['M Erasmus', 'NJ Llong']",male,New Zealand,Australia,521,142
+518,T20/951339.yaml,England,South Africa,Wankhede Stadium,Mumbai,2016-03-18,England,field,T20,England,2,0,20,JE Root,"['S Ravi', 'PR Reiffel']",male,South Africa,England,522,229
+519,T20/951341.yaml,India,Pakistan,Eden Gardens,Kolkata,2016-03-19,India,field,T20,India,6,0,20,V Kohli,"['IJ Gould', 'RA Kettleborough']",male,Pakistan,India,523,118
+520,T20/951343.yaml,Afghanistan,South Africa,Wankhede Stadium,Mumbai,2016-03-20,South Africa,bat,T20,South Africa,0,37,20,CH Morris,"['CB Gaffaney', 'PR Reiffel']",male,South Africa,Afghanistan,524,209
+521,T20/951345.yaml,Sri Lanka,West Indies,M Chinnaswamy Stadium,Bangalore,2016-03-20,West Indies,field,T20,West Indies,7,0,20,ADS Fletcher,"['Aleem Dar', 'JD Cloete']",male,Sri Lanka,West Indies,525,122
+522,T20/951347.yaml,Australia,Bangladesh,M Chinnaswamy Stadium,Bangalore,2016-03-21,Australia,field,T20,Australia,3,0,20,A Zampa,"['IJ Gould', 'RA Kettleborough']",male,Bangladesh,Australia,526,156
+523,T20/951349.yaml,New Zealand,Pakistan,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,2016-03-22,New Zealand,bat,T20,New Zealand,0,22,20,MJ Guptill,"['RK Illingworth', 'NJ Llong']",male,New Zealand,Pakistan,527,180
+524,T20/951351.yaml,Afghanistan,England,Feroz Shah Kotla,Delhi,2016-03-23,England,bat,T20,England,0,15,20,MM Ali,"['S Ravi', 'RJ Tucker']",male,England,Afghanistan,528,142
+525,T20/951353.yaml,India,Bangladesh,M Chinnaswamy Stadium,Bangalore,2016-03-23,Bangladesh,field,T20,India,0,1,20,R Ashwin,"['Aleem Dar', 'BNJ Oxenford']",male,India,Bangladesh,529,146
+526,T20/951355.yaml,Australia,Pakistan,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,2016-03-25,Australia,bat,T20,Australia,0,21,20,JP Faulkner,"['HDPK Dharmasena', 'M Erasmus']",male,Australia,Pakistan,530,193
+527,T20/951357.yaml,South Africa,West Indies,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2016-03-25,West Indies,field,T20,West Indies,3,0,20,MN Samuels,"['IJ Gould', 'RA Kettleborough']",male,South Africa,West Indies,531,122
+528,T20/951359.yaml,Bangladesh,New Zealand,Eden Gardens,Kolkata,2016-03-26,New Zealand,bat,T20,New Zealand,0,75,20,KS Williamson,"['JD Cloete', 'MA Gough']",male,New Zealand,Bangladesh,532,145
+529,T20/951361.yaml,England,Sri Lanka,Feroz Shah Kotla,Delhi,2016-03-26,Sri Lanka,field,T20,England,0,10,20,JC Buttler,"['PR Reiffel', 'RJ Tucker']",male,England,Sri Lanka,533,171
+530,T20/951363.yaml,India,Australia,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,2016-03-27,Australia,bat,T20,India,6,0,20,V Kohli,"['HDPK Dharmasena', 'M Erasmus']",male,Australia,India,534,160
+531,T20/951365.yaml,Afghanistan,West Indies,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2016-03-27,West Indies,field,T20,Afghanistan,0,6,20,Najibullah Zadran,"['Aleem Dar', 'BNJ Oxenford']",male,Afghanistan,West Indies,535,123
+532,T20/951367.yaml,South Africa,Sri Lanka,Feroz Shah Kotla,Delhi,2016-03-28,South Africa,field,T20,South Africa,8,0,20,AM Phangiso,"['S Ravi', 'RJ Tucker']",male,Sri Lanka,South Africa,536,120
+533,T20/951369.yaml,England,New Zealand,Feroz Shah Kotla,Delhi,2016-03-30,England,field,T20,England,7,0,20,JJ Roy,"['HDPK Dharmasena', 'RJ Tucker']",male,New Zealand,England,537,153
+534,T20/951371.yaml,India,West Indies,Wankhede Stadium,Mumbai,2016-03-31,West Indies,field,T20,West Indies,7,0,20,LMP Simmons,"['IJ Gould', 'RA Kettleborough']",male,India,West Indies,538,192
+535,T20/951373.yaml,England,West Indies,Eden Gardens,Kolkata,2016-04-03,West Indies,field,T20,West Indies,4,0,20,MN Samuels,"['HDPK Dharmasena', 'RJ Tucker']",male,England,West Indies,539,155
+536,T20/953103.yaml,Hong Kong,Scotland,"Mission Road Ground, Mong Kok",Hong Kong,2016-01-30,Hong Kong,field,T20,Hong Kong,9,0,20,Babar Hayat,"['Sarika Prasad', 'Tabarak Dar']",male,Scotland,Hong Kong,540,66
+537,T20/953105.yaml,Hong Kong,Scotland,"Mission Road Ground, Mong Kok",Hong Kong,2016-01-31,Hong Kong,field,T20,Scotland,0,37,20,KJ Coetzer,"['Sarika Prasad', 'Tabarak Dar']",male,Scotland,Hong Kong,541,161
+538,T20/953345.yaml,Afghanistan,Zimbabwe,Sharjah Cricket Stadium,,2016-01-08,Afghanistan,bat,T20,Afghanistan,0,5,20,Gulbadin Naib,"['AK Chaudhary', 'VA Kulkarni']",male,Afghanistan,Zimbabwe,542,187
+539,T20/953347.yaml,Afghanistan,Zimbabwe,Sharjah Cricket Stadium,,2016-01-10,Zimbabwe,field,T20,Afghanistan,0,81,20,Mohammad Shahzad,"['VA Kulkarni', 'C Shamshuddin']",male,Afghanistan,Zimbabwe,543,215
+540,T20/954735.yaml,Ireland,Papua New Guinea,Tony Ireland Stadium,Townsville,2016-02-07,Papua New Guinea,field,T20,D/L,0,7,20,,"['BB Pradhan', 'RJ Tucker']",male,Ireland,Papua New Guinea,544,96
+541,T20/954737.yaml,Ireland,Papua New Guinea,Tony Ireland Stadium,Townsville,2016-02-09,Papua New Guinea,bat,T20,Papua New Guinea,0,11,20,,"['BB Pradhan', 'RJ Tucker']",male,Papua New Guinea,Ireland,545,116
+542,T20/954741.yaml,United Arab Emirates,Ireland,Sheikh Zayed Stadium,Abu Dhabi,2016-02-14,United Arab Emirates,field,T20,Ireland,0,34,20,,"['Iftikhar Ali', 'Rabiul Hoque']",male,Ireland,United Arab Emirates,546,134
+543,T20/954743.yaml,United Arab Emirates,Ireland,Sheikh Zayed Stadium,Abu Dhabi,2016-02-16,United Arab Emirates,bat,T20,United Arab Emirates,0,5,20,,"['Akbar Ali', 'Iftikhar Ali']",male,United Arab Emirates,Ireland,547,133
+544,T20/958415.yaml,Bangladesh,Zimbabwe,Sheikh Abu Naser Stadium,Khulna,2016-01-15,Zimbabwe,bat,T20,Bangladesh,4,0,20,H Masakadza,"['Enamul Haque', 'Sharfuddoula']",male,Zimbabwe,Bangladesh,548,163
+545,T20/958417.yaml,Bangladesh,Zimbabwe,Sheikh Abu Naser Stadium,Khulna,2016-01-17,Bangladesh,bat,T20,Bangladesh,0,42,20,Sabbir Rahman,"['Anisur Rahman', 'Sharfuddoula']",male,Bangladesh,Zimbabwe,549,167
+546,T20/958419.yaml,Bangladesh,Zimbabwe,Sheikh Abu Naser Stadium,Khulna,2016-01-20,Zimbabwe,bat,T20,Zimbabwe,0,31,20,MN Waller,"['Anisur Rahman', 'Enamul Haque']",male,Zimbabwe,Bangladesh,550,187
+547,T20/958421.yaml,Bangladesh,Zimbabwe,Sheikh Abu Naser Stadium,Khulna,2016-01-22,Zimbabwe,bat,T20,Zimbabwe,0,18,20,H Masakadza,"['Enamul Haque', 'Sharfuddoula']",male,Zimbabwe,Bangladesh,551,180
+548,T20/963697.yaml,India,Sri Lanka,Maharashtra Cricket Association Stadium,Pune,2016-02-09,Sri Lanka,field,T20,Sri Lanka,5,0,20,CAK Rajitha,"['VA Kulkarni', 'CK Nandan']",male,India,Sri Lanka,552,101
+549,T20/963699.yaml,India,Sri Lanka,JSCA International Stadium Complex,Ranchi,2016-02-12,Sri Lanka,field,T20,India,0,69,20,S Dhawan,"['AK Chaudhary', 'VA Kulkarni']",male,India,Sri Lanka,553,196
+550,T20/963701.yaml,India,Sri Lanka,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,2016-02-14,India,field,T20,India,9,0,20,R Ashwin,"['AK Chaudhary', 'CK Nandan']",male,Sri Lanka,India,554,82
+551,T20/966373.yaml,United Arab Emirates,Scotland,ICC Academy,Dubai,2016-02-04,United Arab Emirates,bat,T20,United Arab Emirates,0,9,20,Amjad Javed,"['CK Nandan', 'Sarika Prasad']",male,United Arab Emirates,Scotland,555,148
+552,T20/966713.yaml,Afghanistan,United Arab Emirates,Khan Shaheb Osman Ali Stadium,Fatullah,2016-02-19,United Arab Emirates,bat,T20,United Arab Emirates,0,16,20,,"['Sarika Prasad', 'Sharfuddoula']",male,United Arab Emirates,Afghanistan,556,176
+553,T20/966735.yaml,Hong Kong,Oman,Khan Shaheb Osman Ali Stadium,Fatullah,2016-02-19,Oman,bat,T20,Oman,0,5,20,,"['Enamul Haque', 'BB Pradhan']",male,Oman,Hong Kong,557,180
+554,T20/966737.yaml,Afghanistan,Oman,Khan Shaheb Osman Ali Stadium,Fatullah,2016-02-20,Oman,bat,T20,Afghanistan,3,0,20,,"['Anisur Rahman', 'Sarika Prasad']",male,Oman,Afghanistan,558,165
+555,T20/966739.yaml,Hong Kong,United Arab Emirates,Khan Shaheb Osman Ali Stadium,Fatullah,2016-02-21,Hong Kong,bat,T20,United Arab Emirates,6,0,20,,"['BB Pradhan', 'Sharfuddoula']",male,Hong Kong,United Arab Emirates,559,146
+556,T20/966741.yaml,Afghanistan,Hong Kong,Shere Bangla National Stadium,Mirpur,2016-02-22,Hong Kong,field,T20,Afghanistan,0,66,20,Mohammad Nabi,"['Enamul Haque', 'BB Pradhan']",male,Afghanistan,Hong Kong,560,178
+557,T20/966743.yaml,Oman,United Arab Emirates,Shere Bangla National Stadium,Mirpur,2016-02-22,Oman,field,T20,United Arab Emirates,0,71,20,Muhammad Usman,"['Sarika Prasad', 'Sharfuddoula']",male,United Arab Emirates,Oman,561,172
+558,T20/966745.yaml,Bangladesh,India,Shere Bangla National Stadium,Mirpur,2016-02-24,Bangladesh,field,T20,India,0,45,20,RG Sharma,"['RSA Palliyaguruge', 'Shozab Raza']",male,India,Bangladesh,562,166
+559,T20/966747.yaml,Sri Lanka,United Arab Emirates,Shere Bangla National Stadium,Mirpur,2016-02-25,United Arab Emirates,field,T20,Sri Lanka,0,14,20,SL Malinga,"['AK Chaudhary', 'Sharfuddoula']",male,Sri Lanka,United Arab Emirates,563,129
+560,T20/966749.yaml,Bangladesh,United Arab Emirates,Shere Bangla National Stadium,Mirpur,2016-02-26,United Arab Emirates,field,T20,Bangladesh,0,51,20,Mahmudullah,"['AK Chaudhary', 'RSA Palliyaguruge']",male,Bangladesh,United Arab Emirates,564,133
+561,T20/966751.yaml,India,Pakistan,Shere Bangla National Stadium,Mirpur,2016-02-27,India,field,T20,India,5,0,20,V Kohli,"['RSA Palliyaguruge', 'Sharfuddoula']",male,Pakistan,India,565,83
+562,T20/966753.yaml,Bangladesh,Sri Lanka,Shere Bangla National Stadium,Mirpur,2016-02-28,Bangladesh,bat,T20,Bangladesh,0,23,20,Sabbir Rahman,"['AK Chaudhary', 'Shozab Raza']",male,Bangladesh,Sri Lanka,566,147
+563,T20/966755.yaml,Pakistan,United Arab Emirates,Shere Bangla National Stadium,Mirpur,2016-02-29,United Arab Emirates,bat,T20,Pakistan,7,0,20,Shoaib Malik,"['Enamul Haque', 'RSA Palliyaguruge']",male,United Arab Emirates,Pakistan,567,129
+564,T20/966757.yaml,India,Sri Lanka,Shere Bangla National Stadium,Mirpur,2016-03-01,India,field,T20,India,5,0,20,V Kohli,"['Anisur Rahman', 'Shozab Raza']",male,Sri Lanka,India,568,138
+565,T20/966759.yaml,Bangladesh,Pakistan,Shere Bangla National Stadium,Mirpur,2016-03-02,Pakistan,bat,T20,Bangladesh,5,0,20,Soumya Sarkar,"['AK Chaudhary', 'RSA Palliyaguruge']",male,Pakistan,Bangladesh,569,129
+566,T20/966761.yaml,India,United Arab Emirates,Shere Bangla National Stadium,Mirpur,2016-03-03,United Arab Emirates,bat,T20,India,9,0,20,RG Sharma,"['Sharfuddoula', 'Shozab Raza']",male,United Arab Emirates,India,570,81
+567,T20/966763.yaml,Pakistan,Sri Lanka,Shere Bangla National Stadium,Mirpur,2016-03-04,Pakistan,field,T20,Pakistan,6,0,20,Umar Akmal,"['AK Chaudhary', 'Enamul Haque']",male,Sri Lanka,Pakistan,571,150
+568,T20/966765.yaml,Bangladesh,India,Shere Bangla National Stadium,Mirpur,2016-03-06,India,field,T20,India,8,0,20,S Dhawan,"['RSA Palliyaguruge', 'Shozab Raza']",male,Bangladesh,India,572,120
+569,T20/967081.yaml,United Arab Emirates,Netherlands,ICC Academy,Dubai,2016-02-03,United Arab Emirates,field,T20,Netherlands,0,84,20,Mudassar Bukhari,"['CK Nandan', 'Sarika Prasad']",male,Netherlands,United Arab Emirates,573,157
+570,T20/995467.yaml,Sri Lanka,Australia,Pallekele International Cricket Stadium,,2016-09-06,Sri Lanka,field,T20,Australia,0,85,20,GJ Maxwell,"['REJ Martinesz', 'RR Wimalasiri']",male,Australia,Sri Lanka,574,263
+571,T20/995469.yaml,Sri Lanka,Australia,R Premadasa Stadium,Colombo,2016-09-09,Sri Lanka,bat,T20,Australia,4,0,20,GJ Maxwell,"['REJ Martinesz', 'RSA Palliyaguruge']",male,Sri Lanka,Australia,575,128

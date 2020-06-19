@@ -1,0 +1,539 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="stylesheet" href="static/range.css">
+
+  <script src="static/jquery-3.3.1.min.js"></script>
+
+  <link rel="stylesheet" href="static\bootstrap-4.2.1-dist\css\bootstrap.min.css">
+
+  <script src="static\bootstrap-4.2.1-dist\js\bootstrap.min.js"></script>
+
+  <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">-->
+
+    <link rel="stylesheet" href="static/bootstrap-slider.min.css">
+
+    <script src="static/Chart.js"></script>
+
+    <script src="static/popper.min.js"></script>
+
+    <script src="static/range.js"></script>
+
+    <title>Cricket Stats</title>
+  </head>
+  <body>
+
+    <!--<div class="container-fluid">
+      <a href = "https://www.google.com"> Google It? </a>
+    </div>-->
+
+    <nav class="navbar navbar-dark bg-dark">
+      <a class="navbar-brand mb-0 h1 text-white bg-dark">Navbar</a>
+      <form class="form-inline">
+        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0 border-white text-white" type="submit">Search</button>
+      </form>
+    </nav>
+
+    <div class = "container">
+      <h1 class = "display-2">Cricket Stats</h1>
+      <p class="lead">
+        Fine-tuned Cricket Statistics
+      </p>
+    </div>
+
+    
+
+    <div class="container">
+      <p class="lead">
+        Use the following form to query ball by ball data.
+      </p>
+
+      <div class = "row">
+        <div class="input-group col-5">
+          <div class="input-group-prepend">
+            <label class="input-group-text" for="inputGroupSelect01">Batsman: </label>
+          </div>
+          <select class="custom-select" id="BatsmanSelect">
+            <option selected>Choose...</option>
+            <option value="1">One</option>
+            <option value="2">Two</option>
+            <option value="3">Three</option>
+          </select>
+        </div>
+
+        <div class="input-group col-5">
+          <div class="input-group-prepend">
+            <label class="input-group-text" for="inputGroupSelect02">Team: </label>
+          </div>
+          <select class="custom-select" id="TeamSelect">
+            <option selected>Choose...</option>
+            <option value="1">One</option>
+            <option value="2">Two</option>
+            <option value="3">Three</option>
+          </select>
+        </div>
+
+        <button type="submit" class="btn btn-outline-primary col-2" id = "BatsmanSubmit">Add Player</button>
+      </div>
+      <div class = "row mt-3">
+       <div class="input-group col-10">
+        <label class="input-group-text" for="inputGroupSelect02">Selected Players: </label>
+        <div class = "col-10" id = "PlayerList">
+
+        </div>
+      </div>
+      <button type="submit" class="btn btn-outline-danger col-2" id = "BatsmanRemove">Remove Player</button>
+      <div id = "PlayerList">
+
+      </div>
+
+    </div>
+
+    <div class = "row mt-3">
+     <div class="input-group col-12">
+      <label class="input-group-text" for="inputGroupSelect02">Overs:  <span id="slider-range-value1"></span>  -  <span id="slider-range-value2"></span> </label>
+      <div class="col-sm-4 mt-3">
+        <div id="slider-range"></div>
+      </div>
+
+      <div class = "col-1">
+
+      </div>
+
+      <label class="input-group-text" for="inputGroupSelect02"> Deliveries:  <span id="slider-range-value1-2"></span> - <span id="slider-range-value2-2"></span> </label></label>
+      <div class="col-sm-4 mt-3">
+        <div id="slider-range2"></div>
+      </div>
+    </div>
+
+  </div>
+<div class = "row mt-3">
+    <div class="input-group col-12">
+     <div class="btn-group col-12" data-toggle="buttons">
+      <label class="btn btn-outline-secondary col-3 active">
+        <input type="radio" name="ByOptions" id="option1" value = "None" autocomplete="off" checked> Aggregate
+      </label>
+      <label class="btn btn-outline-secondary col-3">
+        <input type="radio" name="ByOptions" id="option2" value = "WinLose" autocomplete="off"> By Win/Lose
+      </label>
+      <label class="btn btn-outline-secondary col-3">
+        <input type="radio" name="ByOptions" id="option3" value = 'Bowlertype' autocomplete="off"> By Bowler Type
+      </label>
+      <label class="btn btn-outline-secondary col-3">
+        <input type="radio" name="ByOptions" id="option4" value = 'Bowlingteam'autocomplete="off"> By Team
+      </label>
+    </div>
+  </div>
+
+</div>
+
+  <div class = "row mt-3">
+  <div class="input-group col-12">
+    <div class="input-group col-4">
+          <div class="input-group-prepend">
+            <label class="input-group-text" for="inputGroupSelect02">Metric: </label>
+          </div>
+          <select class="custom-select" id="Column1Select">
+            <option selected>Choose...</option>
+            <option value="1">Average Runs</option>
+            <option value="2">Deliveries</option>
+            <option value="3">Strike Rate</option>
+          </select>
+        </div>
+
+    <div class="input-group col-4">
+          <div class="input-group-prepend">
+            <label class="input-group-text" for="inputGroupSelect02">Column: </label>
+          </div>
+          <select class="custom-select" id="Column2Select">
+            <option selected>Choose...</option>
+            <option value="1">Average Runs</option>
+            <option value="2">Deliveries</option>
+            <option value="3">Strike Rate</option>
+          </select>
+        </div>
+
+        <div class="input-group col-4">
+          <button type="submit" class="btn btn-success col-12" id = "FinalSubmit">Calculate</button>
+        </div>
+  </div>
+
+</div>
+
+  
+
+</div>
+
+
+
+</div>
+
+
+
+
+<div class = "row mt-6"></div>
+
+<div class="container">
+  <div class="row mt-3" id = "potato">
+    <div class="col">
+      <canvas id="myChart" style = "min-height: 400px;"></canvas>
+    </div>
+    <div class="col">
+      <style> 
+      .table-wrapper-scroll-y {
+        display: block;
+        max-height: 400px;
+        overflow-y: auto;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+      }
+
+    </style>
+
+
+
+    <div class="table-wrapper-scroll-y mt-6">
+
+      <table border="1" class="table table-bordered table-striped">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Batsman</th>
+      <th>Bowling style</th>
+      <th>DotPercentage</th>
+      <th>StrikeRate</th>
+      <th>Deliveries</th>
+      <th>BowlersFaced</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Mohammad Hafeez</td>
+      <td>Left-arm Chinaman</td>
+      <td>20.000000</td>
+      <td>140.000000</td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Mohammad Hafeez</td>
+      <td>Left-arm Fast</td>
+      <td>52.795031</td>
+      <td>102.484472</td>
+      <td>161</td>
+      <td>21</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Mohammad Hafeez</td>
+      <td>Left-arm Medium</td>
+      <td>64.000000</td>
+      <td>88.000000</td>
+      <td>25</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Mohammad Hafeez</td>
+      <td>Left-arm Orthodox</td>
+      <td>42.570281</td>
+      <td>124.096386</td>
+      <td>249</td>
+      <td>17</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Mohammad Hafeez</td>
+      <td>Legbreak</td>
+      <td>40.909091</td>
+      <td>98.484848</td>
+      <td>66</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Mohammad Hafeez</td>
+      <td>Not Specified</td>
+      <td>0.000000</td>
+      <td>100.000000</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Mohammad Hafeez</td>
+      <td>Right-arm Fast</td>
+      <td>47.394958</td>
+      <td>111.764706</td>
+      <td>595</td>
+      <td>64</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Mohammad Hafeez</td>
+      <td>Right-arm Medium</td>
+      <td>42.187500</td>
+      <td>126.562500</td>
+      <td>128</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Mohammad Hafeez</td>
+      <td>Right-arm Offspin</td>
+      <td>35.668790</td>
+      <td>125.477707</td>
+      <td>157</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>Shoaib Malik</td>
+      <td>Left-arm Fast</td>
+      <td>36.601307</td>
+      <td>111.764706</td>
+      <td>153</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Shoaib Malik</td>
+      <td>Left-arm Medium</td>
+      <td>9.090909</td>
+      <td>190.909091</td>
+      <td>11</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>Shoaib Malik</td>
+      <td>Left-arm Orthodox</td>
+      <td>37.931034</td>
+      <td>121.120690</td>
+      <td>232</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>Shoaib Malik</td>
+      <td>Legbreak</td>
+      <td>33.333333</td>
+      <td>117.500000</td>
+      <td>120</td>
+      <td>14</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>Shoaib Malik</td>
+      <td>Not Specified</td>
+      <td>0.000000</td>
+      <td>100.000000</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>Shoaib Malik</td>
+      <td>Right-arm Fast</td>
+      <td>37.572254</td>
+      <td>114.065511</td>
+      <td>519</td>
+      <td>67</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>Shoaib Malik</td>
+      <td>Right-arm Medium</td>
+      <td>40.601504</td>
+      <td>114.285714</td>
+      <td>133</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Shoaib Malik</td>
+      <td>Right-arm Offbreak</td>
+      <td>0.000000</td>
+      <td>100.000000</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>Shoaib Malik</td>
+      <td>Right-arm Offspin</td>
+      <td>32.547170</td>
+      <td>108.018868</td>
+      <td>212</td>
+      <td>23</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>V Kohli</td>
+      <td>Left-arm Chinaman</td>
+      <td>20.000000</td>
+      <td>130.000000</td>
+      <td>10</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>V Kohli</td>
+      <td>Left-arm Fast</td>
+      <td>37.106918</td>
+      <td>125.786164</td>
+      <td>159</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>V Kohli</td>
+      <td>Left-arm Medium</td>
+      <td>25.000000</td>
+      <td>158.333333</td>
+      <td>12</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>V Kohli</td>
+      <td>Left-arm Orthodox</td>
+      <td>30.597015</td>
+      <td>113.432836</td>
+      <td>134</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>V Kohli</td>
+      <td>Legbreak</td>
+      <td>26.984127</td>
+      <td>138.888889</td>
+      <td>126</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>V Kohli</td>
+      <td>Right-arm Fast</td>
+      <td>28.308208</td>
+      <td>149.413735</td>
+      <td>597</td>
+      <td>59</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>V Kohli</td>
+      <td>Right-arm Medium</td>
+      <td>35.416667</td>
+      <td>108.333333</td>
+      <td>48</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>V Kohli</td>
+      <td>Right-arm Offspin</td>
+      <td>28.717949</td>
+      <td>126.153846</td>
+      <td>195</td>
+      <td>24</td>
+    </tr>
+  </tbody>
+</table>
+
+    <!--  <table class="table table-bordered table-striped">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">First</th>
+            <th scope="col">Last</th>
+            <th scope="col">Handle</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">1</th>
+            <td>Mark</td>
+            <td>Otto</td>
+            <td>@mdo</td>
+          </tr>
+          <tr>
+            <th scope="row">2</th>
+            <td>Jacob</td>
+            <td>Thornton</td>
+            <td>@fat</td>
+          </tr>
+          <tr>
+            <th scope="row">3</th>
+            <td>Larry</td>
+            <td>the Bird</td>
+            <td>@twitter</td>
+          </tr>
+          <tr>
+            <th scope="row">4</th>
+            <td>Mark</td>
+            <td>Otto</td>
+            <td>@mdo</td>
+          </tr>
+          <tr>
+            <th scope="row">5</th>
+            <td>Jacob</td>
+            <td>Thornton</td>
+            <td>@fat</td>
+          </tr>
+          <tr>
+            <th scope="row">6</th>
+            <td>Larry</td>
+            <td>the Bird</td>
+            <td>@twitter</td>
+          </tr>
+          <tr>
+            <th scope="row">6</th>
+            <td>Larry</td>
+            <td>the Bird</td>
+            <td>@twitter</td>
+          </tr>
+          <tr>
+            <th scope="row">6</th>
+            <td>Larry</td>
+            <td>the Bird</td>
+            <td>@twitter</td>
+          </tr>
+          <tr>
+            <th scope="row">6</th>
+            <td>Larry</td>
+            <td>the Bird</td>
+            <td>@twitter</td>
+          </tr>
+          <tr>
+            <th scope="row">6</th>
+            <td>Larry</td>
+            <td>the Bird</td>
+            <td>@twitter</td>
+          </tr>
+        </tbody>
+      </table> -->
+
+    </div>
+  </div>
+</div>
+</div>
+
+<script src="static/cratsjs.js"></script>
+
+<!--<script src="static/range.js"></script>-->
+
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
+</body>
+</html>
